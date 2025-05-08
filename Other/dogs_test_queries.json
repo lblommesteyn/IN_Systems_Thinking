@@ -1,0 +1,184 @@
+{
+  "queries": [
+    {
+      "query": "What are the characteristics of Labrador Retrievers?",
+      "relevant_doc_ids": ["dog-001"]
+    },
+    {
+      "query": "How do I crate train a puppy?",
+      "relevant_doc_ids": ["dog-007"]
+    },
+    {
+      "query": "What is the history of dog domestication?",
+      "relevant_doc_ids": ["dog-011"]
+    },
+    {
+      "query": "Which dog breeds are good for families with children?",
+      "relevant_doc_ids": ["dog-001", "dog-003", "dog-008", "dog-032"]
+    },
+    {
+      "query": "How can I understand my dog's body language?",
+      "relevant_doc_ids": ["dog-012", "dog-020"]
+    },
+    {
+      "query": "What are the basic training commands for dogs?",
+      "relevant_doc_ids": ["dog-006"]
+    },
+    {
+      "query": "How much exercise do dogs need?",
+      "relevant_doc_ids": ["dog-005"]
+    },
+    {
+      "query": "Tell me about famous dogs in history",
+      "relevant_doc_ids": ["dog-015"]
+    },
+    {
+      "query": "What health issues do flat-faced dogs have?",
+      "relevant_doc_ids": ["dog-019"]
+    },
+    {
+      "query": "How long do different dog breeds live?",
+      "relevant_doc_ids": ["dog-016", "dog-039"]
+    },
+    {
+      "query": "What are the different groups of dog breeds?",
+      "relevant_doc_ids": ["dog-017"]
+    },
+    {
+      "query": "How should I feed my dog properly?",
+      "relevant_doc_ids": ["dog-004", "dog-025"]
+    },
+    {
+      "query": "What causes separation anxiety in dogs?",
+      "relevant_doc_ids": ["dog-018"]
+    },
+    {
+      "query": "How often should I groom my dog?",
+      "relevant_doc_ids": ["dog-014", "dog-035"]
+    },
+    {
+      "query": "Which dog breeds are most intelligent?",
+      "relevant_doc_ids": ["dog-013", "dog-010"]
+    },
+    {
+      "query": "What is clicker training and how does it work?",
+      "relevant_doc_ids": ["dog-023"]
+    },
+    {
+      "query": "Tell me about Siberian Huskies",
+      "relevant_doc_ids": ["dog-021"]
+    },
+    {
+      "query": "What is canine cognitive dysfunction?",
+      "relevant_doc_ids": ["dog-022"]
+    },
+    {
+      "query": "What are the characteristics of Australian Shepherds?",
+      "relevant_doc_ids": ["dog-024"]
+    },
+    {
+      "query": "What is a raw diet for dogs?",
+      "relevant_doc_ids": ["dog-025"]
+    },
+    {
+      "query": "Tell me about Dachshunds",
+      "relevant_doc_ids": ["dog-026"]
+    },
+    {
+      "query": "What is hip dysplasia in dogs?",
+      "relevant_doc_ids": ["dog-027"]
+    },
+    {
+      "query": "What is dog agility?",
+      "relevant_doc_ids": ["dog-028"]
+    },
+    {
+      "query": "Tell me about Cavalier King Charles Spaniels",
+      "relevant_doc_ids": ["dog-029"]
+    },
+    {
+      "query": "What is scent work for dogs?",
+      "relevant_doc_ids": ["dog-030"]
+    },
+    {
+      "query": "What is heartworm disease?",
+      "relevant_doc_ids": ["dog-031"]
+    },
+    {
+      "query": "Tell me about Boxer dogs",
+      "relevant_doc_ids": ["dog-032"]
+    },
+    {
+      "query": "What are therapy dogs?",
+      "relevant_doc_ids": ["dog-033"]
+    },
+    {
+      "query": "What is parvovirus in dogs?",
+      "relevant_doc_ids": ["dog-034"]
+    },
+    {
+      "query": "Tell me about Shih Tzus",
+      "relevant_doc_ids": ["dog-035"]
+    },
+    {
+      "query": "What is resource guarding in dogs?",
+      "relevant_doc_ids": ["dog-036"]
+    },
+    {
+      "query": "Tell me about Corgis",
+      "relevant_doc_ids": ["dog-037"]
+    },
+    {
+      "query": "What is canine enrichment?",
+      "relevant_doc_ids": ["dog-038"]
+    },
+    {
+      "query": "Tell me about Bernese Mountain Dogs",
+      "relevant_doc_ids": ["dog-039"]
+    },
+    {
+      "query": "What are service dogs?",
+      "relevant_doc_ids": ["dog-040"]
+    },
+    {
+      "query": "What's the difference between service dogs and therapy dogs?",
+      "relevant_doc_ids": ["dog-033", "dog-040"]
+    },
+    {
+      "query": "How do I prevent heartworm in my dog?",
+      "relevant_doc_ids": ["dog-031"]
+    },
+    {
+      "query": "Which dog breeds have the shortest lifespan?",
+      "relevant_doc_ids": ["dog-016", "dog-039"]
+    },
+    {
+      "query": "What are some mental stimulation activities for dogs?",
+      "relevant_doc_ids": ["dog-005", "dog-038"]
+    },
+    {
+      "query": "How do dogs communicate with humans?",
+      "relevant_doc_ids": ["dog-012", "dog-020"]
+    },
+    {
+      "query": "What health issues are common in large dog breeds?",
+      "relevant_doc_ids": ["dog-027", "dog-039"]
+    },
+    {
+      "query": "What are some dog sports or activities for active dogs?",
+      "relevant_doc_ids": ["dog-028", "dog-030"]
+    },
+    {
+      "query": "How do I deal with resource guarding behavior?",
+      "relevant_doc_ids": ["dog-036"]
+    },
+    {
+      "query": "Which dog breeds are best for apartment living?",
+      "relevant_doc_ids": ["dog-035", "dog-037"]
+    },
+    {
+      "query": "What are the most common behavioral problems in dogs?",
+      "relevant_doc_ids": ["dog-018", "dog-036"]
+    }
+  ]
+}

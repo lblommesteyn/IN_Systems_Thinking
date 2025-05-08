@@ -1,0 +1,364 @@
+{
+  "documents": [
+    {
+      "id": "dog-001",
+      "text": "The Labrador Retriever is one of the most popular dog breeds in the world. Known for their friendly temperament, intelligence, and versatility, Labs excel as family pets, service dogs, and working dogs. They typically weigh between 55-80 pounds and have a lifespan of 10-12 years. Labradors come in three colors: black, yellow, and chocolate. They have a water-resistant double coat that requires regular brushing. Originally bred as working dogs for fishermen in Newfoundland, Canada, they were used to retrieve fishing nets and catch fish that escaped from fishing lines.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "popular_breeds",
+        "tags": ["labrador", "retriever", "family_dog", "working_dog"]
+      }
+    },
+    {
+      "id": "dog-002",
+      "text": "German Shepherds are intelligent, loyal, and versatile working dogs. Originally bred for herding sheep in Germany, they now excel in roles such as police dogs, military dogs, search and rescue, and as family companions. They typically weigh between 50-90 pounds and have a lifespan of 7-10 years. German Shepherds have a double coat that comes in various colors, most commonly black and tan. They are known for their courage, trainability, and protective nature, making them excellent guard dogs and loyal family protectors.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "working_breeds",
+        "tags": ["german_shepherd", "working_dog", "police_dog", "protection"]
+      }
+    },
+    {
+      "id": "dog-003",
+      "text": "The Golden Retriever is a friendly, intelligent, and devoted breed. Originally developed in Scotland as a hunting dog to retrieve waterfowl, they are now popular family pets and service dogs. Golden Retrievers typically weigh between 55-75 pounds and have a lifespan of 10-12 years. They have a dense, water-repellent coat that comes in various shades of gold. Known for their gentle temperament and eagerness to please, Golden Retrievers excel in obedience training and are often used as therapy dogs. They are excellent with children and get along well with other pets.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "popular_breeds",
+        "tags": ["golden_retriever", "family_dog", "therapy_dog", "hunting_dog"]
+      }
+    },
+    {
+      "id": "dog-004",
+      "text": "Proper dog nutrition is essential for maintaining health and preventing disease. Dogs require a balanced diet containing proteins, carbohydrates, fats, vitamins, and minerals. Protein is particularly important for dogs, as it provides essential amino acids for muscle development and repair. Good sources of protein include meat, fish, eggs, and some plant-based proteins. The amount of food a dog needs depends on factors such as age, size, breed, and activity level. Puppies require more frequent feeding and higher calorie intake than adult dogs. Senior dogs often need fewer calories but may benefit from specific nutrients to support aging joints and organs.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "nutrition",
+        "tags": ["diet", "feeding", "health", "nutrition"]
+      }
+    },
+    {
+      "id": "dog-005",
+      "text": "Regular exercise is crucial for a dog's physical and mental well-being. The amount of exercise needed varies by breed, age, and individual dog. High-energy breeds like Border Collies and Australian Shepherds require more intensive exercise than lower-energy breeds like Bulldogs or Basset Hounds. Daily walks, play sessions, and training activities help prevent obesity, reduce destructive behaviors, and strengthen the bond between dogs and their owners. Mental stimulation through puzzle toys, training exercises, and new experiences is just as important as physical exercise for keeping dogs happy and healthy.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "exercise",
+        "tags": ["activity", "exercise", "mental_stimulation", "health"]
+      }
+    },
+    {
+      "id": "dog-006",
+      "text": "Basic dog training should include commands such as sit, stay, come, down, and leave it. Positive reinforcement training, which rewards desired behaviors with treats, praise, or play, is generally more effective than punishment-based methods. Consistency is key in dog training - all family members should use the same commands and enforce the same rules. Training sessions should be short (5-15 minutes) and frequent rather than long and infrequent. Socialization is an important aspect of training, exposing puppies to different people, animals, environments, and experiences during their critical development period (3-14 weeks) helps prevent fear and aggression issues later in life.",
+      "metadata": {
+        "source": "dog_training",
+        "category": "basic_training",
+        "tags": ["commands", "positive_reinforcement", "socialization", "puppy_training"]
+      }
+    },
+    {
+      "id": "dog-007",
+      "text": "Crate training is a useful method for house training puppies and providing dogs with a safe space. Dogs are naturally den animals and often appreciate having their own secure area. The crate should be large enough for the dog to stand up, turn around, and lie down comfortably. Introduce the crate gradually, making it a positive space with treats, toys, and comfortable bedding. Never use the crate as punishment. For house training, take puppies outside immediately after removing them from the crate, especially after sleeping, eating, or playing. Establish a regular feeding schedule to help predict when puppies will need to eliminate.",
+      "metadata": {
+        "source": "dog_training",
+        "category": "house_training",
+        "tags": ["crate_training", "house_training", "puppies", "potty_training"]
+      }
+    },
+    {
+      "id": "dog-008",
+      "text": "The Beagle is a small to medium-sized scent hound originally bred for hunting rabbits and hares. Known for their excellent sense of smell, friendly disposition, and distinctive bay, Beagles make wonderful family pets. They typically weigh between 20-30 pounds and have a lifespan of 12-15 years. Beagles have a short coat that comes in various combinations of black, tan, and white. They are known for their curious nature and food motivation, which can sometimes lead to mischief. Beagles require regular exercise to prevent obesity and behavioral issues stemming from boredom.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "hunting_breeds",
+        "tags": ["beagle", "scent_hound", "hunting_dog", "family_dog"]
+      }
+    },
+    {
+      "id": "dog-009",
+      "text": "Preventative healthcare for dogs includes regular veterinary check-ups, vaccinations, parasite prevention, dental care, and spaying or neutering. Core vaccines for dogs typically include rabies, distemper, parvovirus, and adenovirus. Non-core vaccines may be recommended based on geographic location and lifestyle factors. Regular parasite prevention for fleas, ticks, heartworms, and intestinal parasites is essential for maintaining health. Dental disease affects most dogs by age three, so regular teeth brushing and professional cleanings are important. Spaying or neutering not only prevents unwanted litters but can also reduce the risk of certain health problems and behavioral issues.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "healthcare",
+        "tags": ["veterinary", "vaccinations", "preventative_care", "dental_health"]
+      }
+    },
+    {
+      "id": "dog-010",
+      "text": "The Poodle is an intelligent, active breed that comes in three size varieties: Standard, Miniature, and Toy. Despite their elegant appearance, Poodles were originally bred as water retrievers for hunting. They are known for their hypoallergenic, continuously growing coat that requires regular professional grooming. Poodles excel in obedience, agility, and other dog sports due to their high intelligence and trainability. They form strong bonds with their families and can be good with children when properly socialized. Standard Poodles are the largest, weighing 40-70 pounds, while Toy Poodles can weigh as little as 4-6 pounds.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "popular_breeds",
+        "tags": ["poodle", "hypoallergenic", "water_dog", "intelligent_breed"]
+      }
+    },
+    {
+      "id": "dog-011",
+      "text": "Dogs evolved from wolves approximately 15,000-30,000 years ago, making them one of the first domesticated animals. The exact process of domestication is debated, but theories include wolves scavenging near human settlements or humans actively taming wolf pups. Over thousands of years, humans selectively bred dogs for specific traits and purposes, resulting in the diverse breeds we see today. Archaeological evidence of dog domestication includes ancient burial sites where dogs were buried alongside humans, indicating their important role in early human societies. The oldest confirmed dog remains date back about 14,000 years, though some disputed findings suggest domestication may have occurred even earlier.",
+      "metadata": {
+        "source": "dog_history",
+        "category": "evolution",
+        "tags": ["domestication", "wolves", "evolution", "archaeology"]
+      }
+    },
+    {
+      "id": "dog-012",
+      "text": "Canine body language provides important clues to a dog's emotional state. A relaxed dog typically has a loose body posture, neutral tail position, and relaxed ears and mouth. Signs of fear or anxiety include a lowered body posture, tucked tail, flattened ears, whale eye (showing the whites of the eyes), and avoidance behaviors. Aggression may be signaled by a stiff body posture, raised hackles, direct stare, growling, or baring teeth. Play bows (front end down, rear end up) indicate playful intent. Understanding these signals helps prevent dog bites and improves communication between dogs and humans. It's important to consider the entire body and the context when interpreting canine body language.",
+      "metadata": {
+        "source": "dog_behavior",
+        "category": "communication",
+        "tags": ["body_language", "behavior", "communication", "safety"]
+      }
+    },
+    {
+      "id": "dog-013",
+      "text": "The Border Collie is widely considered one of the most intelligent dog breeds. Originally bred for herding livestock in the border region between Scotland and England, they have an intense work ethic and problem-solving abilities. Border Collies require extensive mental and physical stimulation to prevent boredom and destructive behaviors. They excel in dog sports such as agility, flyball, and obedience competitions. Border Collies typically weigh 30-45 pounds and have a lifespan of 12-15 years. They have a double coat that can be rough or smooth and comes in various colors, with black and white being the most common pattern.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "working_breeds",
+        "tags": ["border_collie", "herding_dog", "intelligent_breed", "working_dog"]
+      }
+    },
+    {
+      "id": "dog-014",
+      "text": "Grooming requirements vary widely among dog breeds. Long-haired breeds like Shih Tzus and Yorkshire Terriers need daily brushing to prevent mats and tangles. Double-coated breeds like Huskies and German Shepherds experience seasonal shedding or 'blowing coat' and benefit from regular de-shedding tools. Short-haired breeds require less frequent brushing but still shed and need occasional grooming. All dogs need regular nail trimming, usually every 3-4 weeks. Ear cleaning is particularly important for floppy-eared breeds prone to ear infections. Dental care, including teeth brushing and professional cleanings, helps prevent periodontal disease. Professional grooming may be necessary for breeds with continuously growing hair, like Poodles and Bichon Frises.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "grooming",
+        "tags": ["brushing", "nail_care", "dental_care", "coat_maintenance"]
+      }
+    },
+    {
+      "id": "dog-015",
+      "text": "Hachiko, an Akita dog from Japan, is famous for his remarkable loyalty. After his owner, Professor Ueno, died in 1925, Hachiko continued to wait at Shibuya Station every day for nearly 10 years until his own death. A bronze statue of Hachiko stands at Shibuya Station as a symbol of loyalty and fidelity. Balto was a Siberian Husky who led a dog sled team on the final leg of the 1925 serum run to Nome, Alaska, delivering diphtheria antitoxin through harsh conditions and saving countless lives. Laika, a mixed-breed dog, became the first animal to orbit Earth when the Soviet Union launched her on Sputnik 2 in 1957, though she unfortunately did not survive the mission.",
+      "metadata": {
+        "source": "dog_history",
+        "category": "famous_dogs",
+        "tags": ["hachiko", "balto", "laika", "historical_dogs"]
+      }
+    },
+    {
+      "id": "dog-016",
+      "text": "Small dog breeds often live longer than large breeds. Chihuahuas, Yorkshire Terriers, and Dachshunds frequently live 15-20 years, while giant breeds like Great Danes and Bernese Mountain Dogs typically live only 7-10 years. This inverse relationship between size and lifespan is unique to dogs among mammals. Small breeds mature faster but age more slowly, while large breeds mature more slowly but age faster and develop age-related diseases earlier. Genetics plays a significant role in canine longevity, but diet, exercise, preventative healthcare, and environmental factors also influence lifespan. Regular veterinary care, maintaining appropriate weight, dental care, and mental stimulation can help maximize a dog's healthy years.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "lifespan",
+        "tags": ["aging", "longevity", "senior_dogs", "breed_differences"]
+      }
+    },
+    {
+      "id": "dog-017",
+      "text": "Dog breeds were developed for specific purposes, which can be categorized into several main groups. Herding breeds like Border Collies and Australian Shepherds were bred to control livestock movements. Hounds, including Beagles and Bloodhounds, were developed for hunting, using either sight or scent. Sporting breeds such as Retrievers and Pointers assisted hunters in finding and retrieving game. Working breeds like Siberian Huskies and Boxers performed tasks such as pulling sleds, guarding property, or rescuing. Terriers were bred to hunt and kill vermin. Non-sporting dogs like Bulldogs and Dalmatians have varied histories. Toy breeds such as Chihuahuas and Shih Tzus were primarily bred as companions.",
+      "metadata": {
+        "source": "dog_history",
+        "category": "breed_development",
+        "tags": ["breed_groups", "working_dogs", "breed_purpose", "dog_jobs"]
+      }
+    },
+    {
+      "id": "dog-018",
+      "text": "Separation anxiety is a common behavioral issue in dogs, characterized by distress when separated from their owners. Symptoms include excessive barking or howling, destructive behavior, inappropriate elimination, pacing, and escape attempts. Treatment involves gradual desensitization to departures, counterconditioning to change the dog's emotional response, and sometimes medication prescribed by a veterinarian. Creating a safe space with engaging toys, maintaining a consistent routine, and providing sufficient exercise before departures can help manage symptoms. Some breeds, particularly those bred for close human companionship, may be more prone to separation anxiety. Rescue dogs with a history of abandonment may also be more susceptible.",
+      "metadata": {
+        "source": "dog_behavior",
+        "category": "behavioral_issues",
+        "tags": ["separation_anxiety", "behavior_problems", "training", "mental_health"]
+      }
+    },
+    {
+      "id": "dog-019",
+      "text": "The Bulldog, with its distinctive pushed-in face, is an example of a brachycephalic breed. Other brachycephalic breeds include Pugs, Boston Terriers, and Boxers. These breeds can suffer from Brachycephalic Airway Syndrome, which includes narrowed nostrils, an elongated soft palate, and a collapsed larynx, leading to breathing difficulties. Brachycephalic dogs are particularly vulnerable to heat stress and exercise intolerance. They often snore and make snorting sounds due to their airway conformation. Owners of these breeds should be vigilant about preventing overheating, avoiding strenuous exercise in warm weather, and maintaining a healthy weight to minimize breathing problems. Severe cases may require surgical intervention to improve airflow.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "health_concerns",
+        "tags": ["brachycephalic", "breathing_problems", "bulldogs", "pugs"]
+      }
+    },
+    {
+      "id": "dog-020",
+      "text": "Dogs communicate vocally through barking, growling, whining, and howling. Different barks can indicate alerting to danger, expressing excitement, seeking attention, or responding to anxiety. Growling serves as a warning signal that should not be punished, as it communicates discomfort or fear. Whining can express excitement, anxiety, or needs such as going outside or wanting food. Howling, more common in breeds like Huskies and Beagles, can be triggered by high-pitched sounds, separation anxiety, or as a form of communication with other dogs. Understanding these vocalizations in context with body language helps interpret a dog's emotional state and needs.",
+      "metadata": {
+        "source": "dog_behavior",
+        "category": "communication",
+        "tags": ["barking", "vocalization", "communication", "howling"]
+      }
+    },
+    {
+      "id": "dog-021",
+      "text": "The Siberian Husky is a medium-sized working dog breed originating from northeastern Siberia. They were bred by the Chukchi people for pulling sleds over long distances in harsh Arctic conditions. Huskies have a thick double coat that comes in a variety of colors and patterns, with striking blue or multi-colored eyes being common. They typically weigh between 35-60 pounds and have a lifespan of 12-15 years. Siberian Huskies are known for their high energy, endurance, and independent nature. They require substantial exercise and mental stimulation. While they're affectionate with their families, their strong prey drive makes them less suitable for homes with small pets. Their thick coat requires regular brushing, especially during seasonal shedding periods.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "working_breeds",
+        "tags": ["siberian_husky", "sled_dog", "working_dog", "arctic_breed"]
+      }
+    },
+    {
+      "id": "dog-022",
+      "text": "Canine cognitive dysfunction (CCD), often compared to Alzheimer's disease in humans, is a neurodegenerative disorder affecting senior dogs. Symptoms typically begin appearing in dogs over 8 years old and include disorientation, changes in social interactions, sleep disturbances, house soiling, and altered activity levels. The condition is characterized by the accumulation of amyloid plaques in the brain, similar to Alzheimer's in humans. Diagnosis is based on ruling out other medical causes for behavioral changes. While there is no cure, management strategies include environmental enrichment, consistent routines, dietary supplements like omega-3 fatty acids and antioxidants, and medications that support brain function. Early intervention can help slow progression and maintain quality of life.",
+      "metadata": {
+        "source": "dog_health",
+        "category": "senior_dog_conditions",
+        "tags": ["cognitive_dysfunction", "senior_dogs", "brain_health", "dementia"]
+      }
+    },
+    {
+      "id": "dog-023",
+      "text": "Clicker training is a positive reinforcement method that uses a small mechanical device making a distinct clicking sound to mark desired behaviors. The click is immediately followed by a reward, usually a treat. This method is based on classical conditioning, where the dog learns to associate the click with positive reinforcement. The main advantage of clicker training is precision - the click can mark the exact moment a dog performs the correct behavior, even from a distance. It's particularly effective for shaping complex behaviors through successive approximations. Clicker training works well for teaching tricks, agility, and service dog tasks. The method requires good timing and consistency from the trainer but can be learned by anyone with practice.",
+      "metadata": {
+        "source": "dog_training",
+        "category": "training_methods",
+        "tags": ["clicker_training", "positive_reinforcement", "marker_training", "behavior_shaping"]
+      }
+    },
+    {
+      "id": "dog-024",
+      "text": "The Australian Shepherd, despite its name, was developed in the United States as a herding dog for ranchers. Known for their intelligence, versatility, and striking merle coat patterns, Aussies excel in various dog sports and working roles. They typically weigh between 40-65 pounds and have a lifespan of 12-15 years. Australian Shepherds are highly energetic and require substantial physical and mental exercise. They form strong bonds with their families and can be protective. Their medium-length double coat requires regular brushing. The merle gene that gives many Aussies their distinctive appearance can be associated with health issues when two merle dogs are bred together, potentially causing vision and hearing problems in puppies.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "herding_breeds",
+        "tags": ["australian_shepherd", "herding_dog", "working_dog", "merle_coat"]
+      }
+    },
+    {
+      "id": "dog-025",
+      "text": "Raw feeding, also known as the BARF (Biologically Appropriate Raw Food) diet, involves feeding dogs uncooked meats, bones, organs, and some fruits and vegetables. Proponents argue it more closely resembles what dogs' wolf ancestors ate and claim benefits including improved dental health, shinier coats, increased energy, and fewer allergies. However, veterinary organizations express concerns about nutritional imbalances, bacterial contamination, and potential injuries from bones. Raw diets require careful planning to ensure complete nutrition. They're also more time-consuming to prepare and typically more expensive than commercial diets. Pet owners considering raw feeding should consult with veterinarians knowledgeable about nutrition and follow food safety guidelines to minimize health risks to both dogs and humans.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "nutrition",
+        "tags": ["raw_feeding", "BARF_diet", "nutrition", "alternative_diet"]
+      }
+    },
+    {
+      "id": "dog-026",
+      "text": "The Dachshund, often called 'wiener dog' or 'sausage dog' due to its distinctive long body and short legs, was originally bred in Germany to hunt badgers and other burrowing animals. Their name literally means 'badger dog' in German. Dachshunds come in three coat varieties (smooth, wirehaired, and longhaired) and two sizes (standard and miniature). Despite their small stature, they have a bold, sometimes stubborn personality. Their unique body shape makes them prone to intervertebral disc disease, so owners should prevent jumping from heights and maintain a healthy weight. Dachshunds are intelligent, loyal companions that form strong bonds with their families but can be reserved with strangers. They typically live 12-16 years.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "hunting_breeds",
+        "tags": ["dachshund", "hound", "hunting_dog", "badger_dog"]
+      }
+    },
+    {
+      "id": "dog-027",
+      "text": "Canine hip dysplasia is a common skeletal condition where the hip joint doesn't develop properly, leading to deterioration over time. It's most common in large breeds like German Shepherds, Labrador Retrievers, and Golden Retrievers, though it can affect dogs of all sizes. The condition has a genetic component but can be influenced by environmental factors like rapid growth, obesity, and excessive exercise during development. Symptoms include decreased activity, difficulty rising, reluctance to run or climb stairs, and a swaying gait. Treatment options range from weight management and physical therapy to pain medications and surgical interventions like total hip replacement. Responsible breeding practices including hip evaluations help reduce the incidence in affected breeds.",
+      "metadata": {
+        "source": "dog_health",
+        "category": "orthopedic_conditions",
+        "tags": ["hip_dysplasia", "joint_problems", "hereditary_conditions", "large_breeds"]
+      }
+    },
+    {
+      "id": "dog-028",
+      "text": "Agility is a popular dog sport where handlers direct their dogs through an obstacle course in a race for both time and accuracy. Obstacles typically include jumps, tunnels, weave poles, seesaws, A-frames, and dog walks. Dogs must navigate the course in a specific order while handlers provide direction through voice commands and body signals without touching the dog or obstacles. The sport requires a strong bond between dog and handler, as well as training in directional commands and obstacle performance. While Border Collies and Australian Shepherds often excel in competitive agility due to their athleticism and trainability, dogs of all breeds and sizes can participate. Agility provides excellent physical exercise and mental stimulation while strengthening the human-canine relationship.",
+      "metadata": {
+        "source": "dog_activities",
+        "category": "dog_sports",
+        "tags": ["agility", "dog_sports", "obstacle_course", "handler_training"]
+      }
+    },
+    {
+      "id": "dog-029",
+      "text": "The Cavalier King Charles Spaniel combines the athleticism of sporting spaniels with the companionable nature of toy breeds. Named after King Charles II of England who was rarely seen without his spaniels, these dogs were bred to be gentle companions. They typically weigh 13-18 pounds and have a silky, medium-length coat in four color patterns: Blenheim (chestnut and white), tricolor (black, white, and tan), black and tan, or ruby (solid reddish-brown). Cavaliers are known for their sweet, gentle temperament and affectionate nature. They generally get along well with children, other dogs, and even cats. While they enjoy walks and play sessions, they're equally content curled up beside their owners, making them adaptable to various lifestyles.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "companion_breeds",
+        "tags": ["cavalier_king_charles_spaniel", "toy_breed", "companion_dog", "spaniel"]
+      }
+    },
+    {
+      "id": "dog-030",
+      "text": "Scent work, also called nose work, is an activity that taps into dogs' natural scenting abilities by teaching them to identify and locate specific odors. Originally developed from professional detection dog training, the sport has been adapted for companion dogs. Dogs are trained to recognize target odors (typically essential oils like birch, anise, and clove) and alert their handlers when found. Searches can be conducted in various environments including containers, interior rooms, exterior areas, and vehicles. Scent work is particularly beneficial for reactive or shy dogs as they can work independently from their handlers and other dogs. The activity provides excellent mental stimulation, builds confidence, and can tire dogs out more effectively than physical exercise alone. All breeds can excel at scent work due to their naturally superior sense of smell.",
+      "metadata": {
+        "source": "dog_activities",
+        "category": "dog_sports",
+        "tags": ["scent_work", "nose_work", "detection", "mental_stimulation"]
+      }
+    },
+    {
+      "id": "dog-031",
+      "text": "Heartworm disease is a serious and potentially fatal condition caused by Dirofilaria immitis, a parasitic worm that lives in the heart, lungs, and associated blood vessels of affected dogs. The disease is transmitted by mosquitoes, which transfer microscopic heartworm larvae when they bite. Over 6-7 months, these larvae mature into adult worms that can grow up to 12 inches long. A heavily infected dog might harbor hundreds of worms. Symptoms develop gradually and include persistent cough, fatigue, decreased appetite, and weight loss. Advanced cases can lead to heart failure. Treatment is available but can be risky and expensive. Monthly preventative medications are highly effective and are the recommended approach by veterinarians. Prevention is particularly important in areas with high mosquito populations.",
+      "metadata": {
+        "source": "dog_health",
+        "category": "parasitic_diseases",
+        "tags": ["heartworm", "parasites", "preventative_care", "mosquito_transmitted"]
+      }
+    },
+    {
+      "id": "dog-032",
+      "text": "The Boxer is a medium to large breed developed in Germany in the 19th century from the now-extinct Bullenbeisser and the English Bulldog. Originally used for bull-baiting, bear-hunting, and later as butcher's assistants, modern Boxers are versatile working dogs and beloved family companions. They have a short, smooth coat typically in fawn or brindle, often with white markings. Boxers are known for their playful, energetic temperament and patience with children. They're intelligent and respond well to positive reinforcement training but can be stubborn. Despite their muscular appearance, they're gentle and affectionate with their families. Boxers require regular exercise and mental stimulation. They're prone to certain health conditions including heart problems, cancer, and hip dysplasia.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "working_breeds",
+        "tags": ["boxer", "working_dog", "family_dog", "german_breed"]
+      }
+    },
+    {
+      "id": "dog-033",
+      "text": "Therapy dogs are specially trained and evaluated canines that provide comfort, affection, and support in various settings including hospitals, nursing homes, schools, and disaster areas. Unlike service dogs, therapy dogs don't have special access rights and work with multiple people rather than assisting a specific individual with disabilities. Successful therapy dogs have calm, friendly temperaments, enjoy human interaction, and remain composed in various environments with different sounds, smells, and equipment. Popular therapy dog breeds include Golden Retrievers, Labrador Retrievers, and Cavalier King Charles Spaniels, though dogs of any breed can serve as therapy dogs if they have the right temperament. Research shows that interaction with therapy dogs can reduce stress hormones, lower blood pressure, and improve mood in people experiencing illness, trauma, or stress.",
+      "metadata": {
+        "source": "dog_jobs",
+        "category": "assistance_dogs",
+        "tags": ["therapy_dogs", "animal_assisted_therapy", "emotional_support", "hospital_dogs"]
+      }
+    },
+    {
+      "id": "dog-034",
+      "text": "Canine parvovirus (parvo) is a highly contagious viral disease that primarily affects unvaccinated puppies and young dogs. The virus attacks rapidly dividing cells, particularly in the intestinal tract, bone marrow, and heart in very young puppies. It's transmitted through direct contact with infected dogs or contaminated feces, environments, or objects. The virus is extremely hardy and can survive in the environment for months or years. Symptoms include severe vomiting, bloody diarrhea, lethargy, fever, and loss of appetite, leading to life-threatening dehydration and secondary infections. Treatment involves intensive supportive care including IV fluids, anti-nausea medications, antibiotics, and careful monitoring. Vaccination is highly effective at preventing the disease and is considered a core vaccine that all dogs should receive.",
+      "metadata": {
+        "source": "dog_health",
+        "category": "infectious_diseases",
+        "tags": ["parvovirus", "parvo", "vaccination", "puppies"]
+      }
+    },
+    {
+      "id": "dog-035",
+      "text": "The Shih Tzu is an ancient toy breed developed in China, where they were prized companions in imperial palaces. Their name means 'lion dog' in Mandarin, reflecting their resemblance to the mythical Chinese lion. Shih Tzus have a long, flowing double coat that requires daily brushing and regular grooming to prevent matting. They typically weigh between 9-16 pounds and have a distinctive flat face, large eyes, and a friendly expression. Despite their small size, they have a solid build and confident carriage. Shih Tzus are known for their outgoing, affectionate temperament and adaptability to various living situations. They're generally good with children and other pets. While they enjoy short walks, they don't require extensive exercise, making them suitable for apartment living.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "toy_breeds",
+        "tags": ["shih_tzu", "toy_breed", "companion_dog", "chinese_breed"]
+      }
+    },
+    {
+      "id": "dog-036",
+      "text": "Resource guarding is a natural canine behavior where dogs protect valuable items such as food, toys, sleeping locations, or even people. While it served an evolutionary purpose for wild canids, it can become problematic in domestic settings. Signs range from subtle (freezing, whale eye) to severe (growling, snapping, biting). Resource guarding is often misunderstood as dominance, but it's actually rooted in anxiety and fear of losing something valuable. Treatment involves counterconditioning to change the dog's emotional response, teaching alternative behaviors, and management strategies to prevent incidents. Punishment should be avoided as it can increase anxiety and aggression. Early intervention is important, as resource guarding tends to escalate if not addressed. For severe cases, working with a professional dog behaviorist is recommended.",
+      "metadata": {
+        "source": "dog_behavior",
+        "category": "behavioral_issues",
+        "tags": ["resource_guarding", "food_aggression", "possession_aggression", "behavior_modification"]
+      }
+    },
+    {
+      "id": "dog-037",
+      "text": "The Corgi comes in two distinct breeds: the Pembroke Welsh Corgi and the Cardigan Welsh Corgi. Both were developed in Wales as herding dogs, using their low stature to nip at the heels of cattle while avoiding kicks. Pembrokes are more popular and typically have a shorter body, pointed ears, and either no tail or a docked tail. Cardigans have a longer body, rounded ears, and a long, fox-like tail. Both breeds have short legs, a thick double coat, and an alert, intelligent expression. Corgis are known for their bold personality, intelligence, and surprising athleticism despite their short legs. They form strong bonds with their families and can be vocal. While they're small enough for apartment living, they have high energy levels and require regular exercise to prevent obesity and behavioral issues.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "herding_breeds",
+        "tags": ["corgi", "pembroke_welsh_corgi", "cardigan_welsh_corgi", "herding_dog"]
+      }
+    },
+    {
+      "id": "dog-038",
+      "text": "Canine enrichment refers to activities and environmental modifications that stimulate a dog's mind, encourage natural behaviors, and improve quality of life. Enrichment can be categorized into several types: cognitive (puzzle toys, training), sensory (novel scents, sounds, textures), social (interaction with people and other animals), feeding (food puzzles, foraging opportunities), and physical (varied environments, agility equipment). Regular enrichment helps prevent boredom and associated behavioral problems like destructive chewing, excessive barking, and anxiety. It's particularly important for high-intelligence breeds, working dogs without jobs, and dogs left alone for extended periods. Simple enrichment activities include snuffle mats for foraging, rotating toys to maintain novelty, scatter feeding, and creating obstacle courses with household items. Enrichment should be tailored to each dog's preferences, abilities, and energy level.",
+      "metadata": {
+        "source": "dog_care",
+        "category": "mental_stimulation",
+        "tags": ["enrichment", "mental_stimulation", "puzzle_toys", "boredom_prevention"]
+      }
+    },
+    {
+      "id": "dog-039",
+      "text": "The Bernese Mountain Dog is a large working breed from the Swiss Alps, where they were used for drafting (pulling carts), herding livestock, and guarding farms. They have a distinctive tricolor coat (black with rust and white markings) that is thick, long, and requires regular brushing. Bernese Mountain Dogs typically weigh between 70-115 pounds and have a gentle, calm temperament despite their imposing size. They're known for their loyalty, affection toward family members, and patience with children. While they enjoy outdoor activities, particularly in cool weather, they don't require extensive exercise and are often content to relax at home. Unfortunately, they have one of the shortest lifespans among dog breeds, averaging only 7-9 years, and are prone to several health issues including cancer, hip and elbow dysplasia, and bloat.",
+      "metadata": {
+        "source": "breed_information",
+        "category": "working_breeds",
+        "tags": ["bernese_mountain_dog", "working_dog", "draft_dog", "swiss_breed"]
+      }
+    },
+    {
+      "id": "dog-040",
+      "text": "Service dogs are specially trained to perform specific tasks for individuals with disabilities, as defined by the Americans with Disabilities Act (ADA). Unlike emotional support animals or therapy dogs, service dogs have legal public access rights. Types of service dogs include guide dogs for the visually impaired, hearing dogs for the deaf, mobility assistance dogs, psychiatric service dogs, and medical alert dogs that can detect changes in blood sugar or oncoming seizures. Training typically takes 1-2 years and includes basic obedience, public access skills, and task-specific training. Breeds commonly used as service dogs include Labrador Retrievers, Golden Retrievers, and German Shepherds, though any breed with the right temperament and physical capabilities can be trained. Service dogs must be well-behaved in public settings and focused on their handler despite distractions.",
+      "metadata": {
+        "source": "dog_jobs",
+        "category": "assistance_dogs",
+        "tags": ["service_dogs", "assistance_dogs", "disability_support", "working_dogs"]
+      }
+    }
+  ]
+}
