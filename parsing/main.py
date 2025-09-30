@@ -14,7 +14,7 @@ from parsing.indexer import Indexer
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="PDF → paragraphs pipeline with OCR fallback and optional FTS5 index")
+    p = argparse.ArgumentParser(description="PDF -> paragraphs pipeline with OCR fallback and optional FTS5 index")
     p.add_argument("input", help="Path to a PDF file")
     p.add_argument("--out-dir", default=os.path.join("data", "processed"), help="Output directory")
     p.add_argument("--basename", default=None, help="Base name for output files (default: input stem)")
@@ -62,7 +62,7 @@ def main():
         p["text"] = cleaner.clean(p["text"])
         p["source"] = src_path
 
-    # Deduplicate (optional – enabled by default with threshold)
+    # Deduplicate (optional - enabled by default with threshold)
     if not args.no_dedup:
         paragraphs = dedup.deduplicate(paragraphs)
 
@@ -104,7 +104,7 @@ def main():
     print("done")
     print(f"Input: {src_path}")
     print(f"Output: {out_paths}")
-    print(f"Counts → pages: {len(pages)}, paragraphs: {len(paragraphs)}, indexed: {n_indexed}")
+    print(f"Counts -> pages: {len(pages)}, paragraphs: {len(paragraphs)}, indexed: {n_indexed}")
 
 
 if __name__ == "__main__":
