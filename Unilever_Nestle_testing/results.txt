@@ -1,0 +1,7 @@
+Unilever Green Total: 36
+Nestle Green Total: 5
+
+version1.py = 28/36 = 78%, 4/5 = 80%
+version2.py = 31/36 = 86%, 4/5 = 80%
+
+list of paragraphs that talk about cross scale interactions, might not be all of keirra / anna's paragraphs

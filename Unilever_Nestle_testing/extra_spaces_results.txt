@@ -1,0 +1,354 @@
+Found 85 cases of words split by spaces
+
+'oppor tunit' → 'opportunit' (Found 5 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf, Nestle_Annual_Report_2014_page_12.pdf, Nestle_Annual_Report_2014_page_29.pdf
+Occurrence 1: ", there is still an important oppor tunity to better leverage our scale"
+Occurrence 2: "fferent consumer dynamics and oppor tunities in each geography. Additio"
+Occurrence 3: "sing problems. This offers an oppor tunity for global companies such as"
+... and 2 more occurrences
+
+'uncer tainty' → 'uncertainty' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "ent was again marked by great uncer tainty in 2014. Disruptive socio-eco"
+Occurrence 2: "ent was again marked by great uncer tainty in 2014. Disruptive socio-eco"
+
+'bring ing' → 'bringing' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "enture Galderma from L’Oréal, bring ing our ownership of Galderma to "
+Occurrence 2: "enture Galderma from L’Oréal, bring ing our ownership of Galderma to "
+
+'estab lished' → 'established' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: " Ingelheim in July. The newly estab lished Nestlé Skin Health is led by "
+Occurrence 2: " Ingelheim in July. The newly estab lished Nestlé Skin Health is led by "
+
+'determin ation' → 'determination' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "as always been based upon our determin ation to stay the course and look a"
+Occurrence 2: "as always been based upon our determin ation to stay the course and look a"
+
+'oppor tunities' → 'opportunities' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf, Nestle_Annual_Report_2014_page_29.pdf
+Occurrence 1: "apting ourselves to seize the oppor tunities it presents."
+Occurrence 2: " creation of more than 100000 oppor tunities for young people in Europe."
+
+'cat egories' → 'categories' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf, Nestle_Annual_Report_2014_page_15.pdf
+Occurrence 1: "e ideas, the products and the cat egories that help us on our journey t"
+Occurrence 2: "ation programmes, focusing on cat egories for children and women of chi"
+
+'infor mation' → 'information' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "iving them better nutritional infor mation on our product labels. We are"
+Occurrence 2: "iving them better nutritional infor mation on our product labels. We are"
+
+'every day' → 'everyday' (Found 2 times)
+Sources: Nestle_Annual_Report_2014_page_21.pdf, Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_13.pdf
+Occurrence 1: "e people go, so we are there, every day, to help protect, nourish and"
+Occurrence 2: "e used by 2 billion consumers every day. Our business is organised ac"
+
+'over time' → 'overtime' (Found 2 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_31.pdf, Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_21.pdf
+Occurrence 1: "reasing our operating margins over time."
+Occurrence 2: "That said, over time emerging markets have deliver"
+
+'con tribution' → 'contribution' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "capability to make a positive con tribution to society. Wherever you are "
+
+'cancella tion' → 'cancellation' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "L’Oréal shares to L’Oréal for cancella tion. Part of the proceeds were us"
+
+'medi cine' → 'medicine' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: " and aesthetic and corrective medi cine, allowing us to compete in th"
+
+'organ ised' → 'organised' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "rive to ensure our company is organ ised efficiently and effectively t"
+
+'struc ture' → 'structure' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: ", adapting our organisational struc ture to better prepare ourselves t"
+
+'decen tralised' → 'decentralised' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: "continues to benefit from its decen tralised structure, allowing key decis"
+
+'Con tinuous' → 'Continuous' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_6.pdf
+Occurrence 1: " around the world) and Nestlé Con tinuous Excellence (our continuous im"
+
+'former ly' → 'formerly' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "h is led by Humberto Antunes, former ly the Chief Executive Officer o"
+
+'resourc es' → 'resources' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "oices enables us to align our resourc es behind our best ideas, produc"
+
+'collab oration' → 'collaboration' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "te of Health Sciences began a collab oration on a groundbreaking project, "
+
+'com binations' → 'combinations' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "nt of made-to-measure vitamin com binations tailored to individual needs."
+
+'discus sions' → 'discussions' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "ted Nations there are intense discus sions about the global development "
+
+'valu able' → 'valuable' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_8.pdf
+Occurrence 1: "nies such as Nestlé to make a valu able contribution, in partnership "
+
+'environ ment' → 'environment' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "look ahead, to understand the environ ment in which we operate, to organ"
+
+'eco nomic' → 'economic' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "n a challenging and turbulent eco nomic environment, we see these as "
+
+'fi nancial' → 'financial' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "commit ourselves to ambitious fi nancial targets. We aim to achieve or"
+
+'op portunit' → 'opportunit' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "o organise ourselves to seize op portunities to deliver profitable grow"
+
+'walk over' → 'walkover' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "t this is the line we want to walk over time."
+
+'entre preneur' → 'entrepreneur' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_9.pdf
+Occurrence 1: "ativity, their discipline and entre preneurship are key to delivering our"
+
+'offer ing' → 'offering' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf
+Occurrence 1: "ve enhanced people’s lives by offer ing tastier and healthier food an"
+
+'any time' → 'anytime' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf
+Occurrence 1: " at all stages of life and at any time of day, helping them care for"
+
+'pro ducts' → 'products' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf
+Occurrence 1: "ovation and renovation of our pro ducts we are helping people enjoy h"
+
+'com petitive' → 'competitive' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf
+Occurrence 1: "drive performance and deliver com petitive advantage. Our strong culture"
+
+'refer ence' → 'reference' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_12.pdf
+Occurrence 1: "e the leader but the industry refer ence for Nutrition, Health and Wel"
+
+'busi ness' → 'business' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "ty as a whole and for us as a busi ness. As the world’s leading food "
+
+'provid ing' → 'providing' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "tant role to play in not only provid ing good nutrition but in helping"
+
+'care givers' → 'caregivers' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: " designed to help parents and care givers provide nutritionally and dev"
+
+'chil dren' → 'children' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "our leadership in the area of chil dren’s nutrition. By the end of 20"
+
+'ex plor' → 'explor' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: " and behaviours, our research ex plores family dynamics around diet"
+
+'lead ing' → 'leading' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "e-scale studies together with lead ing scientists of children’s diet"
+
+'ex plores' → 'explores' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: " and behaviours, our research ex plores family dynamics around diets "
+
+'govern mental' → 'governmental' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "der scientific community, non-govern mental organisations and others."
+
+'advertis ing' → 'advertising' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "l compliance with responsible advertis ing and marketing standards for c"
+
+'effec tive' → 'effective' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "015. To ensure consistent and effec tive implementation, detailed inte"
+
+'pro vide' → 'provide' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "takeholders are encouraged to pro vide feedback via our Tell us repo"
+
+'par ticularly' → 'particularly' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "ellness education activities, par ticularly those that positively impact "
+
+'stud ies' → 'studies' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "unities. In addition, our own stud ies in four countries have shown "
+
+'look ing' → 'looking' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: " and encourages five families look ing to change their eating and li"
+
+'com munic' → 'communic' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "towards the fight against non-com municable diseases in society. Our "
+
+'recommen dations' → 'recommendations' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "d healthier. In line with the recommen dations from public health authoritie"
+
+'com municable' → 'communicable' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: "towards the fight against non-com municable diseases in society. Our redu"
+
+'ingre dient' → 'ingredient' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_14.pdf
+Occurrence 1: " whole grains are the primary ingre dient in our breakfast cereals for "
+
+'in creased' → 'increased' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_15.pdf
+Occurrence 1: " where habitual servings have in creased over time."
+
+'con tinue' → 'continue' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_18.pdf
+Occurrence 1: "ilt on innovation, which will con tinue to drive performance and deli"
+
+'ro bots' → 'robots' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_18.pdf
+Occurrence 1: "pan we started using humanoid ro bots to sell Nescafé Dolce Gusto a"
+
+'bil lion' → 'billion' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_19.pdf
+Occurrence 1: "market that was worth CHF 245 bil lion in 2013. It provides prescrip"
+
+'estab lishment' → 'establishment' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_22.pdf
+Occurrence 1: "y childhood also supports the estab lishment of good eating habits."
+
+'pos sible' → 'possible' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_22.pdf
+Occurrence 1: "e. Where breastfeeding is not pos sible, we provide breast-milk subst"
+
+'Internation al' → 'International' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_22.pdf
+Occurrence 1: "e World Health Organization’s Internation al Code of Marketing of Breast-M"
+
+'aware ness' → 'awareness' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_23.pdf
+Occurrence 1: " can affect memory, learning, aware ness or decision-making. Our scien"
+
+'includ ing' → 'including' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_26.pdf
+Occurrence 1: "ing Shared Value commitments (includ ing three new ones for 2014). The"
+
+'deliver ing' → 'delivering' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_27.pdf
+Occurrence 1: "rs for each Grand Cru coffee, deliver ing the perfect cup. VertuoLine i"
+
+'fresh ly' → 'freshly' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_27.pdf
+Occurrence 1: "o, the crema, to the world of fresh ly-brewed long-cup coffee."
+
+'new line' → 'newline' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_27.pdf
+Occurrence 1: "VertuoLine features a new line of 12 Grands Crus, eight larg"
+
+'nutri tional' → 'nutritional' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_31.pdf
+Occurrence 1: " aims to champion the role of nutri tional therapies that have proven cl"
+
+'informa tion' → 'information' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_32.pdf
+Occurrence 1: "institute can now combine the informa tion about the nutritional content"
+
+'de veloping' → 'developing' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_32.pdf
+Occurrence 1: "search offers the prospect of de veloping personalised nutrition produc"
+
+'free phone' → 'freephone' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_32.pdf
+Occurrence 1: "health checks and offers toll-free phone contact with doctors to discu"
+
+'communica tion' → 'communication' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_41.pdf
+Occurrence 1: "recommendations. The consumer communica tion reinforces the importance for"
+
+'engi neer' → 'engineer' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_43.pdf
+Occurrence 1: "014. It was created by Nestlé engi neer Thomas Mayne to help children"
+
+'envir onment' → 'environment' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_48.pdf
+Occurrence 1: "ong results in a soft trading envir onment, building on the good growth "
+
+'im proved' → 'improved' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_52.pdf
+Occurrence 1: "care. In North America growth im proved towards the end of the year w"
+
+'re turned' → 'returned' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_52.pdf
+Occurrence 1: " well with Gelato, and snacks re turned to growth, although the premi"
+
+'Butter Cups' → 'ButterCups' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_52.pdf
+Occurrence 1: "ll-out of Butterfinger Peanut Butter Cups continued. Innovations like N"
+
+'South East' → 'SouthEast' (Found 1 times)
+Sources: Nestle_Annual_Report_2014_page_54.pdf
+Occurrence 1: "v-Go was launched in parts of South East Asia. It was also rolled out "
+
+'market place' → 'marketplace' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_4.pdf
+Occurrence 1: ", unrivalled execution in the market place and a relentless focus on con"
+
+'some time' → 'sometime' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_5.pdf
+Occurrence 1: "y and Unilever have faced for some time. A slowdown in the growth of "
+
+'cash flow' → 'cashflow' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_7.pdf
+Occurrence 1: " operating margin, and strong cash flow."
+
+'fresh water' → 'freshwater' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_16.pdf
+Occurrence 1: "fourfold in the 20th century, fresh water withdrawals grew nine times –"
+
+'drug stores' → 'drugstores' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_18.pdf
+Occurrence 1: "mmerce channel and specialist drug stores."
+
+'Hair Care' → 'HairCare' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_18.pdf
+Occurrence 1: " strong start of the Advanced Hair Care range launched in the US and "
+
+'hair care' → 'haircare' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_18.pdf
+Occurrence 1: "mple, its new Oxygen Moisture hair care range in Europe and the launc"
+
+'cut off' → 'cutoff' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_26.pdf
+Occurrence 1: "an two hectares and are often cut off from training so lack knowled"
+
+'push carts' → 'pushcarts' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_27.pdf
+Occurrence 1: " equipment, such as trikes or push carts and freezers, to enable a mic"
+
+'job shares' → 'jobshares' (Found 1 times)
+Sources: Unilever_Annual_Report_and_Accounts_2014_Strategic_Report_page_29.pdf
+Occurrence 1: "le working, women’s networks, job shares and maternity and paternity s"
+

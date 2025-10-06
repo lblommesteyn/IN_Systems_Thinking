@@ -1,0 +1,43 @@
+[
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "IND:logistics centres",
+      "ENV:carbon emissions"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4‑Above‑Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Centralised logistics centres drive reductions in carbon emissions by optimising movement of goods across Unilever’s global network.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:factories",
+      "ENV:non‑hazardous waste",
+      "FI:operating expenses"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": true
+    },
+    "strength": "4‑Above‑Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "Achieving zero non‑hazardous waste to landfill in all factories has avoided environmental waste and lowered operating expenses over time.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  }
+]

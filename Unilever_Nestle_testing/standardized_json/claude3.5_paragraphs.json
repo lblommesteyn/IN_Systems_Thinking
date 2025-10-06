@@ -1,0 +1,215 @@
+[
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:shareholders",
+      "ENV:society",
+      "ENV:environment"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.9,
+    "summary": "Long-term business success tied to creating societal and environmental value across organizational and systemic scales",
+    "pdf_source": "Nestlé Annual Report 2014.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ENV:societies",
+      "ENV:healthcare system",
+      "PPL:people"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Demographic shifts driving healthcare system transformation through nutritional solutions",
+    "pdf_source": "Nestlé Annual Report 2014.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "PPL:pet owners",
+      "ENV:ageing system"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.75,
+    "summary": "Knowledge transfer about nutritional interventions across human and animal ageing systems",
+    "pdf_source": "Nestlé Annual Report 2014.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:employees",
+      "ENV:business market"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Organizational diversity strategy linked to market competitiveness across team and systemic scales",
+    "pdf_source": "Nestlé Annual Report 2014.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:climate system",
+      "ENV:agriculture system",
+      "ENV:food production system"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.95,
+    "summary": "Organizational risk management interacting with broader ecological and agricultural systems",
+    "pdf_source": "Nestlé Annual Report 2014.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:Consumer market",
+      "ENV:Environmental system",
+      "ENV:Economic system"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.9,
+    "summary": "Consumer preferences, environmental constraints, and business economics interconnected across multiple systemic scales",
+    "pdf_source": "Unilever Annual Report (source unspecified).txt"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:Regulatory system",
+      "ENV:Economic system",
+      "PPL:Stakeholders"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.9,
+    "summary": "Reputational and regulatory risks directly impact long-term business viability across multiple systemic scales",
+    "pdf_source": "Unilever Annual Report (source unspecified).txt"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:Manufacturing system",
+      "ENV:Environmental system"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Manufacturing technology innovation creates systemic environmental impact across product and industry scales",
+    "pdf_source": "Unilever Annual Report (source unspecified).txt"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:Supply chain system",
+      "PPL:Suppliers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.9,
+    "summary": "Sourcing policy creates systemic improvement across supply chain and human rights scales",
+    "pdf_source": "Unilever Annual Report (source unspecified).txt"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:Agricultural system",
+      "PPL:Farmers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Raw material sourcing interconnects corporate strategy with agricultural and farmer economic systems",
+    "pdf_source": "Unilever Annual Report (source unspecified).txt"
+  }
+]

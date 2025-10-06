@@ -1,0 +1,212 @@
+{
+    "cross_scale_paragraphs": [
+        {
+            "source": "Nestlé Annual Report 2014.pdf",
+            "paragraph": "It is our fundamental belief that to be successful over time we need to create value for our shareholders while at the same time creating value for society. We call this Creating Shared Value. To prosper we have to take a long-term view, framed in a robust set of principles and values that are based on respect: respect for people, respect for the environment, and respect for the world we live in.",
+            "entities": [
+                "ORG:Nestlé",
+                "PPL:shareholders", 
+                "ENV:society",
+                "ENV:environment"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "systemic_factor_involved": "Yes",
+            "strength": "5-Strong",
+            "explicitness": "Explicit",
+            "confidence": 0.9,
+            "summary": "Long-term business success tied to creating societal and environmental value across organizational and systemic scales"
+        },
+        {
+            "source": "Nestlé Annual Report 2014.pdf",
+            "paragraph": "Across the world societies are getting older and the burden of healthcare costs is increasing. More than ever there is a need for safe, effective and affordable solutions to help people stay healthy. Our understanding of the importance of good nutrition to help manage health and treat disease continues to grow.",
+            "entities": [
+                "ENV:societies",
+                "ENV:healthcare system", 
+                "PPL:people"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes", 
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "systemic_factor_involved": "Yes",
+            "strength": "4-Above-Avg",
+            "explicitness": "Explicit",
+            "confidence": 0.85,
+            "summary": "Demographic shifts driving healthcare system transformation through nutritional solutions"
+        },
+        {
+            "source": "Nestlé Annual Report 2014.pdf",
+            "paragraph": "We understand the need for good nutrition to live healthily, so it's imperative that pet owners are aware of similar nutritional breakthroughs available for their pets that help slow the changes associated with ageing.",
+            "entities": [
+                "PPL:pet owners",
+                "ENV:ageing system"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "systemic_factor_involved": "Yes",
+            "strength": "3-Moderate",
+            "explicitness": "Implicit",
+            "confidence": 0.75,
+            "summary": "Knowledge transfer about nutritional interventions across human and animal ageing systems"
+        },
+        {
+            "source": "Nestlé Annual Report 2014.pdf",
+            "paragraph": "We believe that different ways of thinking complement each other and lead to better decisions being made. Diverse teams are more creative, inclusive and competitive, and better reflect the markets we serve. We are a growing business and we need to recruit and nurture the best qualified people.",
+            "entities": [
+                "ORG:Nestlé",
+                "PPL:employees",
+                "ENV:business market"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "systemic_factor_involved": "Yes",
+            "strength": "4-Above-Avg",
+            "explicitness": "Explicit",
+            "confidence": 0.85,
+            "summary": "Organizational diversity strategy linked to market competitiveness across team and systemic scales"
+        },
+        {
+            "source": "Nestlé Annual Report 2014.pdf",
+            "paragraph": "Nestlé manages risks and opportunities related to climate change proactively given the impact it may have on agriculture and food production systems.",
+            "entities": [
+                "ORG:Nestlé", 
+                "ENV:climate system",
+                "ENV:agriculture system",
+                "ENV:food production system"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "systemic_factor_involved": "Yes",
+            "strength": "5-Strong",
+            "explicitness": "Explicit",
+            "confidence": 0.95,
+            "summary": "Organizational risk management interacting with broader ecological and agricultural systems"
+        },
+        {
+            "source": "Unilever Annual Report (source unspecified).txt",
+            "paragraph": "We would miss out on the growing consumer preference for goods that do not damage the environment or exploit people. Our entire business would rely on increasingly rare and expensive raw materials, pushing up our costs. Without more efficient use of energy our production costs would increase while we would miss considerable savings from more sustainable packaging and less waste.",
+            "entities": [
+                "ORG:Unilever",
+                "ENV:Consumer market",
+                "ENV:Environmental system",
+                "ENV:Economic system"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "loop_nature": "reinforcing",
+            "systemic_factor_involved": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "strength": "5-Strong",
+            "explicitness": "Explicit",
+            "confidence": 0.9,
+            "summary": "Consumer preferences, environmental constraints, and business economics interconnected across multiple systemic scales"
+        },
+        {
+            "source": "Unilever Annual Report (source unspecified).txt",
+            "paragraph": "We would also risk the disapproval of governments, regulators and NGOs, and our brands – Unilever's crown jewels – could suffer reputational damage, representing serious economic loss to the business. That's why sustainability is at the heart of everything we do to ensure we have a viable long-term business that is attractive to investors.",
+            "entities": [
+                "ORG:Unilever",
+                "ENV:Regulatory system",
+                "ENV:Economic system",
+                "PPL:Stakeholders"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "loop_nature": "reinforcing",
+            "systemic_factor_involved": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "strength": "5-Strong",
+            "explicitness": "Explicit",
+            "confidence": 0.9,
+            "summary": "Reputational and regulatory risks directly impact long-term business viability across multiple systemic scales"
+        },
+        {
+            "source": "Unilever Annual Report (source unspecified).txt",
+            "paragraph": "Unilever has waived exclusivity rights from 1 January 2015, so that other manufacturers can also use the technology. With up to 59 million Dove Body Wash bottles sold across Europe, the new technology will save approximately 180 tonnes of plastic a year overall. A full roll-out across every Unilever product and packaging format could save up to 27,000 tonnes of plastic per year.",
+            "entities": [
+                "ORG:Unilever",
+                "ENV:Manufacturing system",
+                "ENV:Environmental system"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "loop_nature": "reinforcing",
+            "systemic_factor_involved": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "strength": "4-Above-Avg",
+            "explicitness": "Explicit",
+            "confidence": 0.85,
+            "summary": "Manufacturing technology innovation creates systemic environmental impact across product and industry scales"
+        },
+        {
+            "source": "Unilever Annual Report (source unspecified).txt",
+            "paragraph": "In 2014 we rolled out our Responsible Sourcing Policy (RSP) as part of our commitment to business integrity, openness, respect for universal human rights and core labour principles. To ensure that our suppliers embrace the RSP and move up the continuous improvement ladder our initial goal is for our key Partner To Win suppliers, approximately 200 large companies, to meet mandatory RSP criteria by the end of March 2015.",
+            "entities": [
+                "ORG:Unilever",
+                "ENV:Supply chain system",
+                "PPL:Suppliers"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "loop_nature": "reinforcing",
+            "systemic_factor_involved": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "strength": "5-Strong",
+            "explicitness": "Explicit",
+            "confidence": 0.9,
+            "summary": "Sourcing policy creates systemic improvement across supply chain and human rights scales"
+        },
+        {
+            "source": "Unilever Annual Report (source unspecified).txt",
+            "paragraph": "Around half of Unilever's raw materials come from farms or forests so sustainable agriculture is a strategic priority. Smallholder farmers produce 70% of the world's food and make up 85% of the world's farmers. Most grow their crops on less than two hectares and are often cut off from training so lack knowledge of how to maximise incomes by improving their agricultural practices.",
+            "entities": [
+                "ORG:Unilever",
+                "ENV:Agricultural system",
+                "PPL:Farmers"
+            ],
+            "relationship_type": "causal",
+            "cross_scale_connection": "Yes",
+            "loop_nature": "reinforcing",
+            "systemic_factor_involved": "Yes",
+            "scale_differences": {
+                "spatial": true,
+                "temporal": true
+            },
+            "strength": "4-Above-Avg",
+            "explicitness": "Explicit",
+            "confidence": 0.85,
+            "summary": "Raw material sourcing interconnects corporate strategy with agricultural and farmer economic systems"
+        }
+    ]
+}

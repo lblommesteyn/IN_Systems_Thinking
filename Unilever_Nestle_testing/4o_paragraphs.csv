@@ -1,0 +1,298 @@
+paragraph_text,entities,relationship_type,cross_scale_connection,feedback_loop_present,loop_nature,systemic_factor,strength_rating,explicitness,merged_context,pdf_source,confidence,citation,scale_differences,strength,summary,systemic_factor_involved
+,"[""ORG:Unilever"", ""PPL:employees""]",causal,No,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": false}",3‑Moderate,"Finally, on behalf of the Boards, I would like 
+to thank all Unilever’s 172,000 employees 
+for their hard work in delivering good 
+results in a challenging environment.",No
+,"[""ORG:Unilever"", ""ENV:carbon""]",feedback,No,Yes,n/a,,,Implicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": false}",1‑Very‑Weak,"Unilever’s work in moving from commitment 
+to action in combating deforestation has 
+been recognised. In November, we were 
+ranked joint first for corporate action on 
+tackling deforestation in our sector by CDP, 
+formerly the Carbon Disclosure Project.  
+The CDP report was produced on behalf  
+of 240 investors, who together represent 
+US $15 trillion in assets, and analysed the 
+disclosures of 152 companies from around 
+the world. It said: “Companies that regularly 
+respond to CDP’s forests program are  
+now identifying many more opportunities 
+available to them, including securing their 
+supply chain against the risks associated 
+with deforestation and commodity  
+sourcing. This in turn is helping to secure 
+shareholder value.”",Yes
+,"[""ORG:Unilever"", ""TMP:long-term"", ""ORG:company""]",causal,Yes,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": true}",4‑Above‑Avg,"ANNUAL BONUS – A YEAR OF RESILIENT PERFORMANCE
+During the year Unilever faced an increasingly challenging 
+external environment. In addition to fierce competition, we also 
+saw weakening consumer demand across many parts of the 
+world and increasing external volatility. The business responded 
+to the combination of these events with resilience by heightening 
+focus on cost control and margin improvement. Although our 
+overall underlying sales growth lowered to 2.9% we continued to 
+outperform our markets, as we have done consistently since  
+Paul Polman’s appointment as CEO. Through rigorous control of 
+overheads, we delivered a core operating margin improvement of 
+0.4 percentage points despite adverse currency movements. With 
+the quality of these results in mind, the Committee exercised its 
+judgement to uplift the annual bonus outcome from 68% to 80%  
+of target and decided to pay a bonus of 132% of salary (66% of 
+maximum) to the CEO, Paul Polman, and a bonus of 88% of salary 
+(59% of maximum) to the CFO, Jean-Marc Huët. The Committee 
+believes that these awards fairly reflect the performance 
+delivered in 2014. This consistency in performance delivery, now 
+established over the last six years, shows that Unilever is building 
+a more resilient company. We are better able to withstand the 
+challenges of an increasingly uncertain business environment 
+because we are moving towards a business model with long-term 
+sustainability at its core.",No
+,"[""ORG:Unilever"", ""PPL:shareholders""]",feedback,No,Yes,n/a,,,Implicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": false}",1‑Very‑Weak,"In 2015 the Committee plans to undertake a further review of our 
+remuneration framework to ensure that it continues to be fully 
+aligned with Unilever’s business strategy and enables us to 
+respond quickly to the rapidly changing markets in which we 
+operate. Specifically, we will be looking for opportunities to 
+simplify reward arrangements and also to strengthen the linkage 
+between executive pay and the creation of sustainable longer-
+term shareholder value. To the extent that changes are proposed, 
+the Committee will consult with key shareholders to get their 
+feedback in advance of recommending changes to shareholders.",No
+,"[""ORG:Unilever"", ""TMP:long-term"", ""PPL:employees""]",causal,Yes,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": true, ""temporal"": true}",4‑Above‑Avg,"Because these forward-looking statements involve risks and uncertainties, there are important factors that could cause actual results to differ materially 
+from those expressed or implied by these forward-looking statements. Among other risks and uncertainties, the material or principal factors which cause 
+actual results to differ materially are: Unilever’s global brands not meeting consumer preferences; Unilever’s ability to innovate and remain competitive; 
+Unilever’s investment choices in its portfolio management; inability to find sustainable solutions to support long-term growth; customer relationships; the 
+recruitment and retention of talented employees; disruptions in our supply chain; the cost of raw materials and commodities; the production of safe and high 
+quality products; secure and reliable IT infrastructure; successful execution of acquisitions, divestitures and business transformation projects; economic  
+and political risks and natural disasters; financial risks; failure to meet high and ethical standards; and managing regulatory, tax and legal matters. Further 
+details of potential risks and uncertainties affecting the Group are described in the Group’s filings with the London Stock Exchange, Euronext Amsterdam and 
+the US Securities and Exchange Commission, including in the Group’s Annual Report on Form 20-F for the year ended 31 December 2014 and the Annual 
+Report and Accounts 2014. These forward-looking statements speak only as of the date of this document. Except as required by any applicable law or 
+regulation, the Group expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements 
+contained herein to reflect any change in the Group’s expectations with regard thereto or any change in events, conditions or circumstances on which any  
+such statement is based.",No
+,"[""ORG:Unilever"", ""PPL:shareholders"", ""TMP:future""]",feedback,Yes,Yes,n/a,,,Implicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": true}",1‑Very‑Weak,"Feedback from shareholders: we maintain a frequent dialogue 
+with our principal shareholders and regularly collect feedback.  
+In addition, in 2014 we asked a cross section of investors to 
+participate in a detailed perception study. We use this feedback  
+to help shape our investor programme and future shareholder 
+communications. Private shareholders are encouraged to give 
+feedback via shareholder.services@unilever.com. The Chairman, 
+Executive Directors and Chairmen of the Committees are also 
+generally available to answer questions from the shareholders  
+at the AGMs each year.",No
+,"[""ORG:Unilever"", ""TMP:long-term"", ""ORG:company""]",causal,Yes,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": true}",4‑Above‑Avg,"Annual bonus – a year of resilient performance
+During the year Unilever faced an increasingly challenging 
+external environment. In addition to fierce competition, we also 
+saw weakening consumer demand across many parts of the 
+world and increasing external volatility. The business responded 
+to the combination of these events with resilience by heightening 
+focus on cost control and margin improvement. Although our 
+overall underlying sales growth lowered to 2.9% we continued to 
+outperform our markets, as we have done consistently since  
+Paul Polman’s appointment as CEO. Through rigorous control of 
+overheads, we delivered a core operating margin improvement of 
+0.4 percentage points despite adverse currency movements. With 
+the quality of these results in mind, the Committee exercised its 
+judgement to uplift the annual bonus outcome from 68% to 80%  
+of target and decided to pay a bonus of 132% of salary (66% of 
+maximum) to the CEO, Paul Polman, and a bonus of 88% of salary 
+(59% of maximum) to the CFO, Jean-Marc Huët. The Committee 
+believes that these awards fairly reflect the performance 
+delivered in 2014. This consistency in performance delivery, now 
+established over the last six years, shows that Unilever is building 
+a more resilient company. We are better able to withstand the 
+challenges of an increasingly uncertain business environment 
+because we are moving towards a business model with long-term 
+sustainability at its core.",No
+,"[""ORG:Unilever"", ""PPL:shareholders""]",feedback,No,Yes,n/a,,,Implicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": false}",1‑Very‑Weak,"In 2015 the Committee plans to undertake a further review of our 
+remuneration framework to ensure that it continues to be fully 
+aligned with Unilever’s business strategy and enables us to 
+respond quickly to the rapidly changing markets in which we 
+operate. Specifically, we will be looking for opportunities to 
+simplify reward arrangements and also to strengthen the linkage 
+between executive pay and the creation of sustainable longer- 
+term shareholder value. To the extent that changes are proposed, 
+the Committee will consult with key shareholders to get their 
+feedback in advance of recommending changes to shareholders.",No
+,"[""ORG:Unilever"", ""ORG:company""]",causal,No,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": false, ""temporal"": false}",3‑Moderate,"FINANCIAL INSTRUMENTS 
+The company’s accounting policies under United Kingdom 
+generally accepted accounting principles (UK GAAP), namely 
+FRS 25 ‘Financial Instruments: Presentation’, FRS 26 ‘Financial 
+Instruments: Measurement’ and FRS 29 ‘Financial Instruments: 
+Disclosures’, are the same as the Unilever Group’s accounting 
+policies under International Financial Reporting Standards (IFRS) 
+namely IAS 32 ‘Financial Instruments: Presentation’, IAS 39 
+‘Financial Instruments: Recognition and Measurement’ and 
+IFRS 7 ‘Financial Instruments: Disclosures’. The policies are set 
+out under the heading ‘Capital and funding’ in note 15 to the 
+consolidated accounts on pages 109 and 110. PLC is taking the 
+exemption for financial instruments disclosures, because IFRS 7 
+disclosures are given in notes 15 to 18 to the consolidated 
+accounts on pages 109 to 123.",No
+,"[""ORG:Unilever"", ""TMP:long-term"", ""PPL:employees""]",causal,Yes,No,n/a,,,Explicit,,Unilever,0.85,,"{""spatial"": true, ""temporal"": true}",4‑Above‑Avg,"Because these forward-looking statements involve risks and uncertainties, there are important factors that could cause actual results to differ materially 
+from those expressed or implied by these forward-looking statements. Among other risks and uncertainties, the material or principal factors which cause 
+actual results to differ materially are: Unilever’s global brands not meeting consumer preferences; Unilever’s ability to innovate and remain competitive; 
+Unilever’s investment choices in its portfolio management; inability to find sustainable solutions to support long-term growth; customer relationships; the 
+recruitment and retention of talented employees; disruptions in our supply chain; the cost of raw materials and commodities; the production of safe and high 
+quality products; secure and reliable IT infrastructure; successful execution of acquisitions, divestitures and business transformation projects; economic  
+and political risks and natural disasters; financial risks; failure to meet high and ethical standards; and managing regulatory, tax and legal matters. Further 
+details of potential risks and uncertainties affecting the Group are described in the Group’s filings with the London Stock Exchange, Euronext Amsterdam and 
+the US Securities and Exchange Commission, including in the Group’s Annual Report on Form 20-F for the year ended 31 December 2014 and the Annual 
+Report and Accounts 2014. These forward-looking statements speak only as of the date of this document. Except as required by any applicable law or 
+regulation, the Group expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements 
+contained herein to reflect any change in the Group’s expectations with regard thereto or any change in events, conditions or circumstances on which any  
+such statement is based.",No
+,"[""ORG:Nestlé"", ""IND:health science"", ""PPL:people"", ""ORG:company"", ""IND:food"", ""TMP:long-term""]",causal,Yes,No,n/a,,,Explicit,,Nestle,0.85,,"{""spatial"": false, ""temporal"": true}",4‑Above‑Avg,"The business environment was again marked by great uncer-
+tainty in 2014. Disruptive socio-economic and political change 
+continued to affect growth in many parts of the world. In the 
+emerging markets, economic volatility worsened as growth 
+rates slowed and currencies weakened. In the developed 
+markets, deflationary pressures and soft consumer demand 
+resulted in a continued challenging trading environment. In 
+the face of such uncertainty it was more important than ever 
+to stay the course and remain loyal to our strategy, driving 
+short-term performance while ensuring we made the right 
+decisions to deliver our long-term goals. We took decisive 
+steps to further our ambition to be the world’s recognised 
+leading Nutrition, Health and Wellness company, trusted by 
+all stakeholders, while again delivering financial results in 
+2014 that outperformed the market. 
+Sales were CHF 91.6 billion, with organic growth of 4.5%, 
+composed of real internal growth of 2.3% and pricing of 
+2.2%. The Group’s trading operating profit was CHF 14.0 bil-
+lion and the margin increased by 10 basis points to 15.3%, 
+up 30 basis points in constant currencies. This performance 
+was achieved whilst we again increased consumer facing 
+marketing support for our brands. The net profit rose to 
+CHF 14.5 billion. The CHF 4.4 billion increase in net profit also 
+reflects the profit realised on the disposal of part of the stake 
+in L’Oréal and the revaluation gain on the 50% of Galderma  
+already held when the Group brought its ownership from 50% 
+to 100% (see below). Earnings per share were CHF 4.54, up 
+44.6%. Underlying earnings per share were up 4.4% in con-
+stant currencies. The Group’s operating cash flow remained 
+strong at CHF 14.7 billion. In view of this performance and the 
+company’s strong financial position, the Board is proposing 
+a dividend of CHF 2.20 per share up from CHF 2.15 last year.
+Through continuous innovation and renovation of our food 
+and beverages portfolio we are able to offer people healthier 
+and tastier choices at every stage of their life, at any time 
+of the day. Science-based innovation enables us to enhance 
+the quality of people’s diets, using our knowledge and our 
+research and development capability to make a positive con-
+tribution to society. Wherever you are in the world, we have 
+safe, nutritious products to help you care for yourself and 
+your family. A few years ago, we expanded the boundaries 
+of Nutrition, Health and Wellness with the creation of Nestlé 
+Health Science, motivated by the opportunity to forge a major 
+therapeutic role for nutrition in the management of health. In 
+line with this broadened strategy, in 2014 the Board approved",No
+,"[""PPL:people"", ""ORG:Nestlé"", ""PPL:communities""]",feedback,Yes,Yes,reinforcing,,,Implicit,,Nestle,0.85,,"{""spatial"": true, ""temporal"": false}",1‑Very‑Weak,"We ensure global compliance with responsible advertis-
+ing and marketing standards for children, abiding by external 
+pledges such as the EU Pledge. At the end of 2014, the Ex-
+ecutive Board approved an updated and strengthened Nestlé 
+Marketing Communication to Children Policy, which will come 
+into effect in December 2015. To ensure consistent and effec-
+tive implementation, detailed internal guidelines have been 
+developed and external stakeholders are encouraged to pro-
+vide feedback via our Tell us reporting mechanism. We have 
+phased out our marketing communication in schools and 
+reinforced our health and wellness education activities, par-
+ticularly those that positively impact children’s development 
+and support governments’ goals to increase physical activity. 
+By the end of 2014 the Nestlé Healthy Kids programme 
+was in 73 countries, supporting initiatives which demonstrate 
+how appropriate nutrition and exercise can improve the health 
+of children and their communities. In addition, our own stud-
+ies in four countries have shown that two thirds of children 
+are insufficiently hydrated when they arrive at school. In 2014 
+we provided tools and information that schools, parents and 
+caregivers need to ensure children learn about the benefits of 
+healthy hydration. 
+United for Healthier Kids is a platform, created by Nestlé 
+in 2014, where society can engage and collaborate to find 
+ways to improve the health and wellness of children, from 
+conception to the age of 12 years. In Mexico, a TV series was 
+launched which supports and encourages five families look-
+ing to change their eating and lifestyle habits over six months. 
+The platform has also been launched in the Philippines.
+Through innovation and renovation we continue to make 
+our products tastier and healthier. In line with the recommen-
+dations from public health authorities, we are reducing the 
+amount of salt, sugar and saturated fats in our products as 
+part of our contribution towards the fight against non-com-
+municable diseases in society. Our reduction targets are in-
+cluded in our public nutrition commitments (detailed in the 
+Nestlé in society report) so our progress can be measured. 
+We are also ensuring that whole grains are the primary ingre-
+dient in our breakfast cereals for children and teenagers. 
+We want to help people who buy our products to make 
+informed decisions by giving them better nutritional infor-
+mation on our product labels. We are enhancing our portion 
+guidance and have committed to print GDAs (Guideline Daily 
+Amounts) on the front of all relevant packaging. These make 
+it easier for people to see how much salt, sugar or fat is in the 
+product, and how the amounts compare to reference daily 
+guidelines. Nestlé Portion Guidance is a voluntary initiative",No
+,"[""ORG:Nestlé"", ""ENV:water""]",feedback,Yes,Yes,n/a,,,Implicit,,Nestle,0.85,,"{""spatial"": false, ""temporal"": false}",1‑Very‑Weak,"The new technology used at the factory in Jalisco, Mexico, 
+heats milk at low pressure to remove some of the water. The 
+resulting steam is then condensed and treated and used 
+to clean machines. It is then recycled and used again. The 
+process reduces by 15% the total amount of water used by 
+Nestlé Mexico. Work is now underway to deploy similar tech-
+nology in five other manufacturing sites in water stressed are-
+as around the world. It is just one of a number of water-saving 
+initiatives we have introduced in recent years, allowing us to 
+reduce total water withdrawal in absolute terms by almost 
+one third in the last decade.",Yes
+,"[""GEO:Switzerland"", ""IND:food"", ""ORG:Nestlé"", ""ORG:company""]",feedback,Yes,Yes,reinforcing,,,Implicit,,Nestle,0.85,,"{""spatial"": false, ""temporal"": false}",1‑Very‑Weak,"The successful roll-out of Maggi Oats Noodles demonstrated that healthy eating 
+can be both enjoyable and tasty. Strong sales of the new product show that it is also 
+good business. Maggi Oats Noodles meet Nestlé Nutritional Foundation criteria, 
+which are based on public health recommendations. The consumer communica-
+tion reinforces the importance for families to start the day with a well-balanced 
+breakfast, including fruits and milk. In 2014, we continued to renovate Maggi 
+products all around the world, reducing salt and fat and improving their nutritional  
+benefits. 
+The Maggi company began selling powdered soups in Switzerland in 1885.  
+Julius Maggi had pioneered the production of pea and bean soups at the request 
+of the Swiss Public Welfare Society to address the dietary deficiency of the work-
+ing population. The advent of factory work for women meant less time to prepare 
+food, and the soups were a convenient and nourishing alternative. 
+Maggi entered the Nestlé family in 1947, when the holding company, Alimen-",No
+,"[""PPL:people"", ""ORG:Nestlé"", ""TMP:future""]",causal,Yes,No,n/a,,,Explicit,,Nestle,0.85,,"{""spatial"": true, ""temporal"": true}",4‑Above‑Avg,"Introduction
+In 2014 we delivered strong results in a soft trading envir-
+onment, building on the good growth of past years. They 
+demonstrate the intrinsic strengths of Nestlé: the commit-
+ment of our people, our global footprint, the strength of our 
+portfolio and the quality of our innovation. While delivering 
+in the short term, we remain focused on our business long 
+term, strengthening the foundations of future growth.",No
+,"[""GEO:Africa"", ""ORG:Nestlé"", ""GEO:Asia""]",causal,Yes,No,n/a,,,Explicit,,Nestle,0.85,,"{""spatial"": true, ""temporal"": false}",4‑Above‑Avg,"Zone Asia, Oceania and Africa
+Sales of CHF 18.3 billion, 2.6% organic growth, –0.3% real  
+internal growth; 18.7% trading operating profit margin, 
+–20 basis points.
+The slower growth in the Zone was due to our largest mar-
+ket China and to Oceania. In China we needed to adapt our 
+portfolio to reconnect with the fast-changing expectations of 
+the Chinese consumer. Therefore, in addition to correcting 
+trade stocks throughout the year, we focused on innovation, 
+on reformulation and on re-launches, particularly in coffee, 
+ready-to-drink and confectionery. We continued to see good 
+performances in ambient culinary, ice cream and ready-to-
+drink coffee. In Oceania we are focused on developing new 
+trade channels.
+Strong growth continued in most other emerging mar-
+kets, in particular the Philippines, South Asia, the Indochina 
+region, Turkey and many markets in Africa. We introduced 
+new premium noodles in Singapore and Malaysia. In the 
+ Philippines the new fortified Bear Brand milk powders were 
+well received. Maggi created a new breakfast option for the 
+Indian market, Maggi Oats Noodles, and Nestlé Milo Activ-Go 
+was launched in parts of South East Asia. It was also rolled 
+out in Africa, helping to deliver good growth across the 
+ continent.
+Strong innovation in products and business models drove 
+performance in Japan with the coffee systems Nescafé Dolce 
+Gusto and Nescafé Gold Blend Barista doing well and KitKat 
+maintaining its growth momentum. 
+The Zone’s trading operating profit margin was 18.7%, 
+down 20 basis points, mainly due to slower growth, input 
+cost increases and some exceptional items.",No

@@ -1,0 +1,154 @@
+[
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "LOG:logistics centres",
+      "ENV:carbon emissions",
+      "PPL:customers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.85,
+    "summary": "Centralising logistics reduces emissions and costs while improving service, linking local operations to company-wide environmental gains.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:waste to landfill",
+      "ECON:operating expenses"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "Factory-level zero-waste practices have driven €400 million in savings and reduced environmental impact across operations.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:deforestation",
+      "ECON:commodity costs"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "Scaling sustainable palm-oil sourcing curbs deforestation and shields the company from volatile commodity costs.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "PROD:eco-packs",
+      "ENV:greenhouse gases",
+      "PPL:consumers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.82,
+    "summary": "Switching to eco-packs boosts sales and margins while cutting plastic use and emissions significantly.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "CONCEPT:sustainability",
+      "PPL:consumers",
+      "ORG:Unilever",
+      "BRAND:Domestos"
+    ],
+    "relationship_type": "mixed",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.88,
+    "summary": "Embedding sustainability drives consumer and retailer buy-in, spurs innovation, boosts employee engagement and further elevates brand sales in a reinforcing cycle.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:people",
+      "ENV:sanitation",
+      "PROD:toilets"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": true
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.83,
+    "summary": "Improving sanitation access creates new markets and drives product uptake while enhancing community health.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "CONCEPT:Creating Shared Value",
+      "ENV:food security",
+      "PPL:consumers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "n/a",
+    "systemic_factor_involved": "Yes",
+    "scale_differences": {
+      "spatial": true,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.78,
+    "summary": "Nestlé’s CSV commitments link corporate practice to global challenges—driving social benefit while reinforcing the company’s role in addressing critical issues.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  }
+]

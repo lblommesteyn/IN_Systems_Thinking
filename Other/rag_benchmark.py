@@ -8,6 +8,8 @@ This script provides a comprehensive benchmarking framework for evaluating
 different RAG (Retrieval-Augmented Generation) architectures and configurations.
 It allows comparison of embedding models, vector stores, retrieval strategies,
 and context processing approaches.
+
+Default dataset: A simple corpus about dogs for baseline comparison and benchmarking.
 """
 
 import os
@@ -48,6 +50,10 @@ try:
 except ImportError:
     HAVE_NLTK = False
     logger.warning("NLTK not installed. Some multi-hop features will be limited.")
+
+# Default paths for the dogs dataset
+DEFAULT_CORPUS_PATH = os.path.join("Other", "dogs_corpus.json")
+DEFAULT_QUERIES_PATH = os.path.join("Other", "dogs_test_queries.json")
 
 # Configure logging
 logging.basicConfig(
@@ -423,7 +429,16 @@ class RAGBenchmark:
             self.test_data = pd.read_csv(self.data_path)
         elif self.data_path.endswith('.json'):
             with open(self.data_path, 'r') as f:
-                self.test_data = pd.DataFrame(json.load(f))
+                data = json.load(f)
+                # Handle the dogs dataset format which has a 'queries' key
+                if 'queries' in data:
+                    self.test_data = pd.DataFrame(data['queries'])
+                    # Extract relevance judgments for evaluation
+                    self.relevance_judgments = {}
+                    for _, row in self.test_data.iterrows():
+                        self.relevance_judgments[row['query']] = row.get('relevant_doc_ids', [])
+                else:
+                    self.test_data = pd.DataFrame(data)
         else:
             raise ValueError(f"Unsupported file format: {self.data_path}")
         
@@ -440,7 +455,22 @@ class RAGBenchmark:
             self.corpus_data = pd.read_csv(corpus_path)
         elif corpus_path.endswith('.json'):
             with open(corpus_path, 'r') as f:
-                self.corpus_data = pd.DataFrame(json.load(f))
+                data = json.load(f)
+                # Handle the dogs dataset format which has a 'documents' key
+                if 'documents' in data:
+                    # Convert the documents list to a DataFrame
+                    documents = data['documents']
+                    # Extract metadata from each document
+                    processed_docs = []
+                    for doc in documents:
+                        doc_copy = doc.copy()
+                        # If metadata exists, convert it to a string representation
+                        if 'metadata' in doc_copy:
+                            doc_copy['metadata_str'] = json.dumps(doc_copy['metadata'])
+                        processed_docs.append(doc_copy)
+                    self.corpus_data = pd.DataFrame(processed_docs)
+                else:
+                    self.corpus_data = pd.DataFrame(data)
         else:
             raise ValueError(f"Unsupported file format: {corpus_path}")
         
@@ -1220,40 +1250,74 @@ class RAGBenchmark:
 
 
 if __name__ == "__main__":
+    import argparse
+    
+    # Set up command line arguments
+    parser = argparse.ArgumentParser(description='RAG Architecture Benchmarking Tool')
+    parser.add_argument('--corpus', type=str, default=DEFAULT_CORPUS_PATH,
+                        help=f'Path to corpus data (CSV or JSON). Default: {DEFAULT_CORPUS_PATH}')
+    parser.add_argument('--queries', type=str, default=DEFAULT_QUERIES_PATH,
+                        help=f'Path to test queries (CSV or JSON). Default: {DEFAULT_QUERIES_PATH}')
+    parser.add_argument('--output', type=str, default="Other/benchmark_results",
+                        help='Directory to save benchmark results. Default: Other/benchmark_results')
+    parser.add_argument('--run', action='store_true',
+                        help='Run the benchmark with the specified corpus and queries')
+    
+    args = parser.parse_args()
+    
     # Example usage
-    benchmark = RAGBenchmark()
+    benchmark = RAGBenchmark(data_path=args.queries)
+    
+    print(f"\nRAG Architecture Benchmarking Tool")
+    print(f"=================================")
     
     # Load corpus data
-    # benchmark.load_corpus("path/to/corpus.csv")
+    print(f"\nLoading corpus from: {args.corpus}")
+    try:
+        benchmark.load_corpus(args.corpus)
+        print(f"Successfully loaded corpus with {len(benchmark.corpus_data)} documents")
+    except Exception as e:
+        print(f"Error loading corpus: {e}")
+        print("Using the dogs corpus? Make sure the file exists at the specified path.")
+        print(f"Default path: {DEFAULT_CORPUS_PATH}")
+        sys.exit(1)
     
     # Add default configurations
+    print("\nAdding benchmark configurations...")
     benchmark.add_default_configs()
+    print(f"Added {len(benchmark.configs)} configurations for testing")
     
-    # Or add custom configurations
-    # benchmark.add_config(BenchmarkConfig(...))
-    
-    # Index corpus for each configuration
-    # for config in benchmark.configs:
-    #     benchmark.index_corpus(config)
-    
-    # Run benchmarks with sample queries
-    sample_queries = [
-        "What are the environmental impacts of palm oil production?",
-        "How does Unilever address sustainability in their supply chain?",
-        "What initiatives has Nestle taken to reduce plastic waste?",
-        "Compare the carbon footprint of Unilever and Nestle",
-        "What are the social responsibility programs at Unilever?"
-    ]
-    
-    # results = benchmark.run_benchmark(sample_queries)
-    
-    # Visualize results
-    # benchmark.visualize_results()
-    
-    print("To run the benchmark, modify the script to load your corpus data and uncomment the benchmark execution lines.")
-    print("For a full benchmark, you'll need to:")
-    print("1. Load your corpus data")
-    print("2. Configure your RAG architectures")
-    print("3. Index your corpus")
-    print("4. Run the benchmark with your test queries")
-    print("5. Visualize and analyze the results")
+    # Run the benchmark if requested
+    if args.run:
+        print("\nIndexing corpus for each configuration...")
+        for config in benchmark.configs:
+            print(f"Indexing for configuration: {config.name}")
+            benchmark.index_corpus(config)
+        
+        print("\nRunning benchmark with test queries...")
+        results = benchmark.run_benchmark()
+        
+        print("\nGenerating visualization and reports...")
+        output_dir = benchmark.visualize_results(output_dir=args.output)
+        print(f"Results saved to: {output_dir}")
+        
+        # Evaluate relevance if relevance judgments are available
+        if hasattr(benchmark, 'relevance_judgments') and benchmark.relevance_judgments:
+            print("\nEvaluating relevance against ground truth...")
+            relevance_metrics = benchmark.evaluate_relevance(benchmark.relevance_judgments)
+            print("\nRelevance Metrics:")
+            for config_name, metrics in relevance_metrics.items():
+                print(f"\n{config_name}:")
+                print(f"  Precision@k: {metrics['precision@k']:.4f}")
+                print(f"  Recall@k: {metrics['recall@k']:.4f}")
+                print(f"  F1@k: {metrics['f1@k']:.4f}")
+    else:
+        print("\nBenchmark not run. Use --run to execute the benchmark.")
+        print("\nExample command to run the benchmark:")
+        print(f"python {sys.argv[0]} --run")
+        print("\nFor a full benchmark, you'll need to:")
+        print("1. Load your corpus data (done automatically with the dogs dataset)")
+        print("2. Configure your RAG architectures (done automatically)")
+        print("3. Index your corpus (done when --run is specified)")
+        print("4. Run the benchmark with your test queries (done when --run is specified)")
+        print("5. Visualize and analyze the results (done when --run is specified)")

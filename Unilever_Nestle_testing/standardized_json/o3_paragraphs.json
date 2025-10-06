@@ -1,0 +1,830 @@
+[
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:carbon emissions",
+      "PPL:customers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.86,
+    "summary": "We are now rolling out our global network of logistics centres that organise movement of goods centrally and more efficiently, delivering savings, reduced stocks, reduced carbon emissions and improved customer service.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:waste",
+      "PPL:factories"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.83,
+    "summary": "Since 2008 we estimate that eco-production has avoided costs in excess of €400 million by achieving zero non-hazardous waste to landfill in all factories, protecting the environment while lowering operating expenses.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:environmental footprint",
+      "PPL:society"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.82,
+    "summary": "We cannot achieve our Vision to double our size unless we find new ways to operate that decouple growth from our environmental footprint, while using growth as an enabler for positive social impact.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:plastic",
+      "ENV:waste footprint"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.84,
+    "summary": "In 2014 Unilever launched a newly developed packaging technology for Dove Body Wash bottles that uses 15 % less plastic. Projected cost savings for the whole portfolio are €50 million and the innovation is another substantial step towards the USLP target of halving Unilever’s waste footprint by 2020.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:greenhouse gases",
+      "ENV:plastic",
+      "PPL:consumers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "5-Strong",
+    "explicitness": "Explicit",
+    "confidence": 0.87,
+    "summary": "Eco-packs use up to 70 % less plastic and cut greenhouse gases per consumer use by 50–85 %; at the same time the lower-cost packaging lets us pass savings to consumers and improve category profitability.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:smallholder farmers",
+      "ENV:sustainable practices"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.78,
+    "summary": "Through our own supply chain, our suppliers and NGO partners, we are providing help and training to 800 000 smallholders to enable them to adopt sustainable practices; this helps them increase yields and profits while Unilever benefits from sustainably produced crops and greater security of raw-material supply.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:scarce resources",
+      "PPL:people"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "By sourcing sustainably we can protect scarce resources, ensure security of supply for our business and reduce price volatility while protecting the environment and enhancing people’s lives.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:United Nations",
+      "ENV:climate",
+      "PPL:world"
+    ],
+    "relationship_type": "correlational",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.71,
+    "summary": "In September 2015 the UN will agree new Sustainable Development Goals and, with the close link between human development and climate, the world will be focused on growth that is more inclusive, sustained and sustainable.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:drinking water",
+      "GEO:China",
+      "PPL:consumers"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.73,
+    "summary": "Pureit, our water-purification business, continued to make rapid strides with underlying sales growth of 20 %; the acquisition of the Qinyuan business adds to our capabilities, giving us greater scale and presence in China to meet growing consumer demand for safe drinking water.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:society",
+      "ENV:economic activity"
+    ],
+    "relationship_type": "correlational",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.75,
+    "summary": "Our Creating Shared Value approach focuses the business on the long term, where the success of society and economic activity are intertwined and mutually reinforcing.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:climate change",
+      "IND:agriculture",
+      "IND:food production systems"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.79,
+    "summary": "Nestlé manages risks and opportunities related to climate change proactively, given the impact it may have on agriculture and food-production systems.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ORG:International Federation of Red Cross and Red Crescent Societies",
+      "PPL:rural communities",
+      "ENV:water"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.7,
+    "summary": "In 2014 we renewed a long-standing collaboration with the International Federation of Red Cross and Red Crescent Societies, with a particular focus on improving rural communities’ access to water.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:water resources",
+      "GEO:Mexico"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.72,
+    "summary": "The water-resource savings at the zero-water factory in Jalisco, Mexico, are equivalent to the volume needed per day to fill an Olympic-size swimming-pool.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "PPL:President of the Swiss Confederation",
+      "ORG:Nestlé",
+      "ENV:water",
+      "PPL:societal resilience"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.69,
+    "summary": "The President of the Swiss Confederation used his address at our Creating Shared Value Forum to plead for water to become a stand-alone goal in the future global development agenda, recognising its central role in societal resilience and economic progress.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:natural resources",
+      "ENV:emissions",
+      "ENV:waste water"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.77,
+    "summary": "The Group is subject to environmental regimes in all countries where it operates, putting controls in place to comply with legislation on the use of natural resources, emissions, waste water and waste materials—failures could disrupt production and financial results.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:smallholder farmers",
+      "ENV:sustainable agriculture"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.76,
+    "summary": "Smallholder farmers produce 70 % of the world’s food yet often lack access to training; by linking them to sustainable-agriculture programmes, Unilever mitigates supply risk while farmers improve income and competitiveness.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:societal trends",
+      "IND:research and development"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "2-Weak",
+    "explicitness": "Implicit",
+    "confidence": 0.65,
+    "summary": "R&D investment of €1 billion a year unlocks science and technology that feed directly into benefit-led product designs, enabling Unilever to anticipate long-term societal trends and convert them into commercial growth.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:water impact",
+      "TMP:2010-2020"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.83,
+    "summary": "Our water impact per consumer use has reduced by around 2 % since 2010, contributing to our goal of halving the water associated with the consumer use of our products by 2020.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:women micro-entrepreneurs",
+      "GEO:India"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.78,
+    "summary": "We trained 70 000 women micro-entrepreneurs to sell our products in rural India by the end of 2014, empowering them economically while extending our sales reach into hard-to-serve villages.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:people",
+      "ENV:sanitation"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.79,
+    "summary": "Around 397 million people have been reached by our programmes on hand-washing, safe drinking water, sanitation, oral health and self-esteem, helping to reduce the incidence of life-threatening diseases while building brand trust.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:deforestation",
+      "PPL:supply chain"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "By the end of 2014, 55 % of our agricultural raw materials were sustainably sourced, helping to halt deforestation and mitigate commodity-price volatility in our supply chain.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:children",
+      "ENV:nutrition education"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.77,
+    "summary": "Our Healthy Kids Global Programme reached more than 7.6 million children in 73 countries in 2014, linking nutrition education at school age to long-term improvements in public health.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:water discharges",
+      "TMP:2005-2014"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.74,
+    "summary": "Water discharges per tonne of product have been cut by 52 % since 2005, demonstrating how factory-level conservation programmes aggregate to material reductions in regional water-basin stress.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:transport emissions",
+      "PPL:families",
+      "GEO:41 countries"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.73,
+    "summary": "Nestlé Pure Life’s multi-source model enables local bottling in 56 locations, reducing transport emissions while ensuring affordable access to safe drinking water for families in 41 countries.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:process water",
+      "GEO:Jalisco"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Implicit",
+    "confidence": 0.71,
+    "summary": "The zero-water factory in Jalisco, Mexico, recovers and re-uses process water internally, saving a volume equivalent to an Olympic swimming pool every day and easing pressure on a water-scarce basin.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "GEO:Madagascar",
+      "PPL:farmers",
+      "ENV:sustainably grown vanilla"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.69,
+    "summary": "Smallholder-focused vanilla sourcing in Madagascar aims to lift 4 000 farmers’ incomes while giving Unilever stable access to sustainably grown vanilla, closing the loop between rural livelihoods and product quality.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:greenhouse-gas emissions",
+      "ENV:landfill waste",
+      "TMP:2014"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.76,
+    "summary": "Nestlé’s 72 factories achieving zero waste for disposal in 2014 lowered disposal costs and reduced greenhouse-gas emissions from landfill, illustrating how site-level waste elimination scales up to global climate benefits.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:greenhouse-gas impact",
+      "TMP:2010"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.8,
+    "summary": "Our greenhouse-gas impact per consumer use has increased by around 4 % since 2010, showing how rapid volume growth can out-run efficiency gains and drive climate pressure at a global scale.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:waste impact",
+      "TMP:2010"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.81,
+    "summary": "Our waste impact per consumer use has fallen about 12 % since 2010—site-level packaging and disposal initiatives aggregating into a material reduction in global solid-waste burdens.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:women",
+      "TMP:2020"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.77,
+    "summary": "By 2020 we will empower five million women—raising household incomes and simultaneously widening our rural distribution network.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "ENV:highest nutritional standards",
+      "PPL:people"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.76,
+    "summary": "Thirty-three percent of our product portfolio now meets the highest globally recognised nutritional standards, helping hundreds of millions of people achieve healthier diets while positioning our brands for long-term demand shifts.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Unilever",
+      "PPL:shareholders",
+      "ENV:environment"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.78,
+    "summary": "Even when markets are tough we cannot ignore sustainability; failure would diminish Unilever’s future resilience for long-term shareholders and lose the growing consumer preference for goods that do not damage the environment or exploit people.",
+    "pdf_source": "Unilever_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:energy consumption",
+      "TMP:2005"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.79,
+    "summary": "Energy consumption per tonne of product has been cut 26 % since 2005, lowering Nestlé’s operating costs and reducing pressure on regional power grids and carbon inventories.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:deforestation",
+      "PPL:supply chain"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.73,
+    "summary": "Thirty-eight percent of our high-priority raw-material volumes are now fully traceable back to primary sources, enhancing supply-chain transparency and reducing deforestation and human-rights risks.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:Tier-1 suppliers",
+      "ENV:social standards"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.72,
+    "summary": "We audited 8 700 of our 10 000 tier-1 suppliers and found that 73 % fully complied with our Supplier Code, demonstrating how rigorous oversight of partners safeguards brand equity and social standards.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé",
+      "PPL:young people",
+      "GEO:Europe"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "3-Moderate",
+    "explicitness": "Explicit",
+    "confidence": 0.71,
+    "summary": "Nestlé Needs YOUth helped 11 832 young people in Europe find work or apprenticeship opportunities in 2014, simultaneously tackling regional youth unemployment and building a future talent pipeline for the business.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé",
+      "ENV:Nutritional Foundation criteria",
+      "PPL:children"
+    ],
+    "relationship_type": "causal",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "4-Above-Avg",
+    "explicitness": "Explicit",
+    "confidence": 0.74,
+    "summary": "Ninety-eight percent of our children’s products met the Nestlé Nutritional Foundation criteria at the end of 2014, supporting healthier childhood diets and reducing long-term public-health burdens.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "No",
+    "entities": [
+      "ORG:Nestlé",
+      "ORG:FTSE4Good",
+      "PPL:investor"
+    ],
+    "relationship_type": "correlational",
+    "loop_nature": null,
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "2-Weak",
+    "explicitness": "Implicit",
+    "confidence": 0.66,
+    "summary": "The FTSE4Good listing for Nestlé, based on human-rights and responsible-marketing performance, improves investor confidence and lowers cost of capital by linking social compliance to financial valuation.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  },
+  {
+    "cross_scale_connection": "Yes",
+    "feedback_loop_present": "Yes",
+    "entities": [
+      "ORG:Nestlé Purina",
+      "ORG:Glassdoor",
+      "PPL:employees"
+    ],
+    "relationship_type": "correlational",
+    "loop_nature": "reinforcing",
+    "systemic_factor_involved": "No",
+    "scale_differences": {
+      "spatial": false,
+      "temporal": false
+    },
+    "strength": "2-Weak",
+    "explicitness": "Implicit",
+    "confidence": 0.65,
+    "summary": "Glassdoor ranked Nestlé Purina number three in its 2015 ‘Best Places to Work’, signalling that investments in employee well-being translate into stronger employer branding and improved talent acquisition at scale.",
+    "pdf_source": "Nestle_2014_Anna&Kierra.pdf"
+  }
+]
